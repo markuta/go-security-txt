@@ -1,0 +1,502 @@
+domain,is_file_found,is_file_valid,http_status,acknowledgments,canonical,contact,encryption,expires,hiring,policy,preferred_languages,errors
+lilly.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://lilly.com/.well-known/security.txt"": x509: certificate is valid for a248.e.akamai.net, *.akamaihd-staging.net, *.akamaihd.net, *.akamaized-staging.net, *.akamaized.net, not lilly.com"
+keurigdrpepper.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://keurigdrpepper.com/.well-known/security.txt"": http: server gave HTTP response to HTTPS client"
+diamondbackenergy.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://diamondbackenergy.com/.well-known/security.txt"": dial tcp: lookup diamondbackenergy.com on 1.1.1.1:53: no such host"
+abbottinvestor.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://abbottinvestor.com/.well-known/security.txt"": dial tcp: lookup abbottinvestor.com on 1.1.1.1:53: no such host"
+investor.mcdonalds.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://investor.mcdonalds.com/.well-known/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T11:42:49+01:00 is after 2018-03-12T23:59:59Z"
+bms.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://bms.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+pginvestor.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+stock.walmart.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+mt.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://mt.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+analog.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://analog.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+abc.xyz,false,false,404,,,,,,,,,https://abc.xyz/security.txt file may not exist - HTTP error code: 404
+howmet.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://howmet.com/.well-known/security.txt"": x509: certificate is valid for www.howmet.com, www.alcoawheels.com, not howmet.com"
+amereninvestors.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+investor.spglobal.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+agilent.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://agilent.com/.well-known/security.txt"": x509: certificate is valid for www.agilent.com, www.agilent.com.cn, not agilent.com"
+adobe.com,true,true,200,,https://www.adobe.com/.well-known/security.txt,"https://hackerone.com/adobe, mailto:psirt@adobe.com",https://helpx.adobe.com/security.html/security/key.ug.html,2023-07-27T01:00:00.000Z,https://www.adobe.com/careers.html,https://helpx.adobe.com/security.html/security/policy.ug.html,"en,  ro,  hi",
+corning.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://corning.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+sands.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://sands.com/.well-known/security.txt"": x509: certificate is valid for www.venetianmeetings.com, www.venetian.com, www.sandsexpo.com, www.sands.com, www.palazzolasvegas.com, www.palazzo.com, www.clubgrazie.com, www.azurelasvegas.com, venetianmeetings.com, venetian.com, uat.venetian.com, uat.sands.com, uat.palazzo.com, staging.venetian.com, staging.sands.com, staging.palazzo.com, sandsexpo.com, resort.venetian.com, reserve.venetian.com, reserve.palazzo.com, qa.venetian.com, qa.sands.com, qa.palazzo.com, pxs.venetian.com, palazzolasvegas.com, palazzo.com, myoffers.venetian.com, lily.venetian.com, lily-uat.venetian.com, gitlab.venetian.com, forms.venetian.com, floral.venetian.com, clubgrazie.venetian.com, clubgrazie.qa.venetian.com, clubgrazie.com, clouderamanager.venetian.com, clouderamanager-uat.venetian.com, cloudbuild.venetian.com, booking.venetian.com, booking.palazzo.com, book.venetian.com, book.palazzo.com, auth.venetian.com, auth.uat.venetian.com, auth.staging.venetian.com, auth.qa.venetian.com, archive.sands.com, not sands.com"
+hpe.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://hpe.com/.well-known/security.txt"": EOF"
+jnj.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://jnj.com/.well-known/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T11:42:49+01:00 is after 2019-04-20T23:59:59Z"
+investor.prudential.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+livenationentertainment.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://livenationentertainment.com/.well-known/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T11:42:49+01:00 is after 2022-06-28T23:36:18Z"
+chevron.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://chevron.com/.well-known/security.txt"": x509: certificate is valid for redirect.chevron.com, redirect.chevron.net, not chevron.com"
+carnivalcorp.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://carnivalcorp.com/.well-known/security.txt"": x509: certificate is valid for secure.carnival.com, www.princesscruisesentertainment.com, www.goccl.com.au, www.goccl.com, www.goccl.co.uk, www.goccl.co.nz, www.gocarnival.co.uk, www.cclrose.com, www.carnivalplayersclub.com, www.carnivalmeetings.com, www.carnivalentertainment.com, www.carnival.com.au, www.carnival.com, www.carnival.co.uk, www.carnival.co.nz, www.bookccl.com, wmu02.carnival.com, win.carnival.com.au, View.trade.carnival.com, teambeta.carnival.com, team.carnival.com, static.carnivalcloud.com, secure4.uatcarnival.com, secure2.uatcarnival.com, secure.carnival.co.uk, sar.carnival.com, prodpreview.carnival.com.au, prodpreview.carnival.com, princesscruisesentertainment.com, payment.carnival.com.au, Pages.trade.carnival.com, myperformance.carnival.com, mydocuments.carnival.com, metric.carnival.com, m4.uatcarnival.com, m2.uatcarnival.com, m.carnival.com, legacy.carnivalentertainment.com, images.carnivalcloud.com, help.goccl.com, help.goccl.co.uk, help.carnival.com.au, guestportal.carnival.com, gocclau2.uatcarnival.com, gocclau1.uatcarnival.com, goccl.com.au, goccl.co.uk, goccl.co.nz, gocarnival.co.uk, gcocps.carnival.com, gateway.carnival.com, funpass.carnival.com, failover.carnival.com, embassy.carnival.com, dms4.uatcarnival.com, dms2.uatcarnival.com, dms.uatcarnival.com, dms.carnival.com, cruisetips.carnival.com.au, cruisedirectors.carnival.com, contractor.carnival.com, content.carnival.com.au, competition.carnival.com.au, cloud.carnival.com, Click.trade.carnival.com, cclrose.com, cbp.carnival.com, carnivalmeetings.com, carnivalentertainment.com, carnival.com.au, carnival.com, carnival.co.uk, brochureorder.goccl.com, booking.carnival.com.au, book.carnival.com.au, au.uatcarnival.com, aspectmobile.carnival.com, agentrewardsprogram.goccl.com, agency.carnival.com, 50cruisegiveaway.carnival.com, not carnivalcorp.com"
+are.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://are.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+churchdwight.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+abbvieinvestor.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://abbvieinvestor.com/.well-known/security.txt"": x509: certificate is valid for *.abbvie.com, abbvie.com, not abbvieinvestor.com"
+twitter.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+nexteraenergy.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nexteraenergy.com/.well-known/security.txt"": x509: certificate is valid for *.fpl.com, fpl.com, not nexteraenergy.com"
+sbasite.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+linde.com,true,true,200,,,mailto:cybersecurity.contact@linde.com,,"Sun, 30 Apr 2028 00:00 -0700",,,en,
+celanese.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://celanese.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+airproducts.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://airproducts.com/.well-known/security.txt"": x509: certificate is valid for *.airproducts.com, not airproducts.com"
+ibm.com,true,true,200,https://www.ibm.com/blogs/psirt/ibm-acknowledgement/,,"https://www.ibm.com/trust/security-psirt, https://hackerone.com/ibm?type=team, mailto:psirt@us.ibm.com",https://ibm.ent.box.com/s/gxyniavjpmqj6bnn3gsssirzbp6bmn8p,2022-09-08T12:00+0000,,,,
+investor.ajg.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+globalpaymentsinc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://globalpaymentsinc.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+factset.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://factset.com/.well-known/security.txt"": EOF"
+eogresources.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+essex.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://essex.com/.well-known/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T11:42:49+01:00 is after 2016-09-24T16:27:54Z"
+appliedmaterials.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://appliedmaterials.com/.well-known/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T11:42:49+01:00 is after 2022-07-29T23:59:59Z"
+oxy.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://oxy.com/.well-known/security.txt"": x509: certificate is valid for www.oxy.com, carbfree.org, carbfree.us, carbonfree.company, carbonfree.info, oxylowcarbon.com, risetozero.com, zeroin.com, zeroin.net, zeroin.us, zerointogether.com, zerointogether.net, zerointogether.org, zerointogether.us, www.carbfree.org, www.carbfree.us, www.carbonfree.company, www.carbonfree.info, www.oxylowcarbon.com, www.risetozero.com, www.zeroin.com, www.zeroin.net, www.zeroin.us, www.zerointogether.com, www.zerointogether.net, www.zerointogether.org, www.zerointogether.us, not oxy.com"
+fiserv.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://fiserv.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+tyson.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://tyson.com/.well-known/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T11:42:49+01:00 is after 2022-05-12T18:32:21Z"
+facebook.com,false,false,200,,,,,,,,,"Content-type (text/html; charset=""utf-8"") is not valid"
+viatris.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://viatris.com/.well-known/security.txt"": x509: certificate is valid for 690055335-1.mylan.com, galen.viatris.com, www.paindetect.ee, www.viatris.fr, www.yupelrihcp.com, www.keeponbeating.com, www.morethanmedication.ca, www.paindetect.com.ua, www.paindetect.lt, www.paindetect.lv, www.silverpro.fr, www.viatris.co.za, www.viatris.de, www.viatris.no, www.viatrisuspublicpolicy.com, www.lyrica-navi.jp, www.viatris.tw, www.viatris.com.au, www.viatris.my, www.viatris.fi, www.viatris.ie, www.caduet.com, www.celebrex.com, www.detrolla.com, www.dilantin.com, www.effexorxr.com, www.geodon.com, www.kalitelisertlik.com, www.lipitor.com, www.norvasc.com, www.relpax.com, www.revatio.com, www.standup.com.hk, www.viagra.com, www.viagra.pl, www.viatris.com, www.viatrismiwebform.com, www.viatrispainstudy.com, www.xalatan.com, www.xanax.com, www.zoloft.com, www.toutsu.jp, not viatris.com"
+newmont.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+expediagroup.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+americantower.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+norfolksouthern.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://norfolksouthern.com/.well-known/security.txt"": x509: certificate is valid for nscorp.com, www.nscorp.com, not norfolksouthern.com"
+pseg.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://pseg.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+investors.bestbuy.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+eversource.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://eversource.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+zionsbancorporation.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+amd.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+monsterbevcorp.com,false,false,404,,,,,,,,,https://monsterbevcorp.com/security.txt file may not exist - HTTP error code: 404
+paycom.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+teleflex.com,false,false,300,,,,,,,,,https://teleflex.com/.well-known/security.txt file may not exist - HTTP error code: 300
+eastman.com,false,false,500,,,,,,,,,https://www.eastman.com/.well-known/security.txt file may not exist - HTTP error code: 500
+homedepot.com,false,false,403,,,,,,,,,https://www.homedepot.com/security.txt file may not exist - HTTP error code: 403
+autozone.com,false,false,403,,,,,,,,,https://autozone.com/security.txt file may not exist - HTTP error code: 403
+apacorp.com,false,false,404,,,,,,,,,https://apacorp.com/security.txt file may not exist - HTTP error code: 404
+epam.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+uhsinc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://uhsinc.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+fortive.com,false,false,404,,,,,,,,,https://fortive.com/security.txt file may not exist - HTTP error code: 404
+netflix.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+invesco.com,false,false,300,,,,,,,,,https://www.invesco.com/.well-known/security.txt file may not exist - HTTP error code: 300
+costco.com,false,false,403,,,,,,,,,https://www.costco.com/security.txt file may not exist - HTTP error code: 403
+servicenow.com,false,false,200,,,,,,,,,Content-type (application/json) is not valid
+nclhltdinvestor.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+drhorton.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://drhorton.com/.well-known/security.txt"": x509: certificate is valid for *.dnsmadeeasy.com, dnsmadeeasy.com, not drhorton.com"
+activisionblizzard.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+mtch.com,false,false,404,,,,,,,,,https://mtch.com/security.txt file may not exist - HTTP error code: 404
+akamai.com,true,true,200,,,mailto:security@akamai.com,https://www.akamai.com/us/en/multimedia/documents/infosec/akamai-security-general.pub,,,,,
+newscorp.com,false,false,404,,,,,,,,,https://newscorp.com/security.txt file may not exist - HTTP error code: 404
+huntington.com,false,false,403,,,,,,,,,https://huntington.com/security.txt file may not exist - HTTP error code: 403
+apple.com,false,false,404,,,,,,,,,https://www.apple.com/security.txt file may not exist - HTTP error code: 404
+paypal.com,true,true,200,,https://www.paypalobjects.com/.well-known/security.txt,https://hackerone.com/paypal,,,https://jobsearch.paypal-corp.com/search?keywords=Cyber,https://hackerone.com/paypal?view_policy=true,,
+dominos.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+teledyne.com,false,false,500,,,,,,,,,https://www.teledyne.com/.well-known/security.txt file may not exist - HTTP error code: 500
+chipotle.com,false,false,404,,,,,,,,,https://chipotle.com/security.txt file may not exist - HTTP error code: 404
+ventasreit.com,false,false,404,,,,,,,,,https://ventasreit.com/security.txt file may not exist - HTTP error code: 404
+yum.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+amphenol.com,false,false,404,,,,,,,,,https://amphenol.com/security.txt file may not exist - HTTP error code: 404
+simon.com,false,false,404,,,,,,,,,https://simon.com/security.txt file may not exist - HTTP error code: 404
+hcahealthcare.com,true,true,200,,,mailto:Information.Protection@hcahealthcare.com,,,https://hcahealthcare.com/careers/search.dot?jobClass=HRPayroll,https://hcahealthcare.com/legal/index.dot#responsible-disclosure,,
+troweprice.com,false,false,502,,,,,,,,,https://www.troweprice.com/.well-known/security.txt file may not exist - HTTP error code: 502
+marketaxess.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+hosthotels.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+solaredge.com,false,false,404,,,,,,,,,https://solaredge.com/security.txt file may not exist - HTTP error code: 404
+enphase.com,false,false,404,,,,,,,,,https://enphase.com/security.txt file may not exist - HTTP error code: 404
+grainger.com,false,false,403,,,,,,,,,https://www.grainger.com/security.txt file may not exist - HTTP error code: 403
+l3harris.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://l3harris.com/security.txt"": x509: certificate is valid for www.adobe.io, partners.adobe.com, exchangepartners.adobe.com, *.adobeexchange.com, developer.adobe.com, *.exchange.adobe.com, www.adobeexchange.com, exchangepartners-engage.adobe.com, adobe.io, *.adobemsbasic.com, exchange.adobe.com, not l3harris.com"
+amazon.com,true,true,200,,,https://hackerone.com/amazonvrp/reports/new,,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,,
+skyworksinc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://skyworksinc.com/.well-known/security.txt"": local error: tls: no renegotiation"
+adp.com,true,true,200,,https://www.adp.com/.well-known/security.txt,,,,https://jobs.adp.com/,https://www.adp.com/about-adp/data-security.aspx,en,
+brown-forman.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+fedex.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+slb.com,true,true,200,,https://slb.com/.well-known/security.txt,mailto:security@slb.com,,2023-02-28T00:00:00.000Z,,,en,
+berkshirehathaway.com,false,false,404,,,,,,,,,https://berkshirehathaway.com/security.txt file may not exist - HTTP error code: 404
+fleetcor.com,false,false,404,,,,,,,,,https://fleetcor.com/security.txt file may not exist - HTTP error code: 404
+www8.hp.com,false,false,500,,,,,,,,,https://www8.hp.com/.well-known/security.txt file may not exist - HTTP error code: 500
+dollartree.com,true,true,200,,,mailto:security@dollartree.com,,,,,,
+citizensbank.com,false,false,500,,,,,,,,,https://www.citizensbank.com/.well-known/security.txt file may not exist - HTTP error code: 500
+svb.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://svb.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+vrtx.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+morganstanley.com,false,false,404,,,,,,,,,https://www.morganstanley.com/security.txt file may not exist - HTTP error code: 404
+mondelezinternational.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://mondelezinternational.com/.well-known/security.txt"": x509: certificate is valid for *.mdlzapps.com, mdlzapps.com, not mondelezinternational.com"
+ulta.com,false,false,404,,,,,,,,,https://www.ulta.com/security.txt file may not exist - HTTP error code: 404
+signatureny.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+dexcom.com,false,false,404,,,,,,,,,https://www.dexcom.com/security.txt file may not exist - HTTP error code: 404
+sempra.com,false,false,404,,,,,,,,,https://www.sempra.com/security.txt file may not exist - HTTP error code: 404
+quantaservices.com,false,false,404,,,,,,,,,https://quantaservices.com/security.txt file may not exist - HTTP error code: 404
+huntingtoningalls.com,false,false,404,,,,,,,,,https://huntingtoningalls.com/security.txt file may not exist - HTTP error code: 404
+qualcomm.com,true,true,200,,,"mailto:security@qualcomm.com, mailto:product-security@qualcomm.com",https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/product-security-public-key-download.txt,"Tue, 1 Nov 2022 00:00 -0700",,https://www.qualcomm.com/company/product-security/report-a-bug,,
+theice.com,false,false,404,,,,,,,,,https://www.theice.com/security.txt file may not exist - HTTP error code: 404
+rtx.com,false,false,404,,,,,,,,,https://www.rtx.com/security.txt file may not exist - HTTP error code: 404
+copart.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+vfc.com,false,false,404,,,,,,,,,https://vfc.com/security.txt file may not exist - HTTP error code: 404
+carrier.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+cboe.com,false,false,404,,,,,,,,,https://www.cboe.com/security.txt file may not exist - HTTP error code: 404
+firstenergycorp.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+consumersenergy.com,true,true,200,,,mailto:vulnerability_management@cmsenergy.com,,,,https://www.consumersenergy.com/security,,
+snapon.com,false,false,404,,,,,,,,,https://snapon.com/security.txt file may not exist - HTTP error code: 404
+JohnDeere.com,true,true,200,,,,,,https://www.deere.com/en/our-company/john-deere-careers/,,,
+pentair.com,false,false,404,,,,,,,,,https://www.pentair.com/security.txt file may not exist - HTTP error code: 404
+t-mobile.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+nordson.com,false,false,404,,,,,,,,,https://nordson.com/security.txt file may not exist - HTTP error code: 404
+etsy.com,false,false,404,,,,,,,,,https://www.etsy.com/security.txt file may not exist - HTTP error code: 404
+omnicomgroup.com,false,false,404,,,,,,,,,https://www.omnicomgroup.com/security.txt file may not exist - HTTP error code: 404
+ea.com,false,false,404,,,,,,,,,https://www.ea.com/security.txt file may not exist - HTTP error code: 404
+bxp.com,false,false,404,,,,,,,,,https://bxp.com/security.txt file may not exist - HTTP error code: 404
+gartner.com,false,false,404,,,,,,,,,https://www.gartner.com/security.txt file may not exist - HTTP error code: 404
+verizon.com,false,false,404,,,,,,,,,http://verizon.com/security.txt file may not exist - HTTP error code: 404
+cardinalhealth.com,false,false,403,,,,,,,,,https://www.cardinalhealth.com/security.txt file may not exist - HTTP error code: 403
+wecenergygroup.com,false,false,404,,,,,,,,,https://wecenergygroup.com/security.txt file may not exist - HTTP error code: 404
+evergy.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+zebra.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+lkqcorp.com,false,false,404,,,,,,,,,https://www.lkqcorp.com/security.txt file may not exist - HTTP error code: 404
+aep.com,false,false,404,,,,,,,,,https://aep.com/security.txt file may not exist - HTTP error code: 404
+nortonlifelock.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+henryschein.com,false,false,404,,,,,,,,,https://www.henryschein.com/security.txt file may not exist - HTTP error code: 404
+intuit.com,false,false,422,,,,,,,,,https://www.intuit.com/.well-known/security.txt file may not exist - HTTP error code: 422
+3m.com,false,false,403,,,,,,,,,https://www.3m.com/security.txt file may not exist - HTTP error code: 403
+stanleyblackanddecker.com,false,false,404,,,,,,,,,https://www.stanleyblackanddecker.com/security.txt file may not exist - HTTP error code: 404
+oneok.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+corporate.discovery.com,false,false,404,,,,,,,,,https://corporate.discovery.com/security.txt file may not exist - HTTP error code: 404
+extraspace.com,false,false,403,,,,,,,,,https://www.extraspace.com/security.txt file may not exist - HTTP error code: 403
+iff.com,false,false,403,,,,,,,,,https://www.iff.com/security.txt file may not exist - HTTP error code: 403
+cbrands.com,false,false,404,,,,,,,,,https://www.cbrands.com/security.txt file may not exist - HTTP error code: 404
+franklinresources.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+pxd.com,false,false,404,,,,,,,,,https://www.pxd.com/security.txt file may not exist - HTTP error code: 404
+kimcorealty.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+lyondellbasell.com,false,false,404,,,,,,,,,https://www.lyondellbasell.com/security.txt file may not exist - HTTP error code: 404
+southwest.com,true,true,200,,https://www.southwest.com/.well-known/security.txt,mailto:securityreport@wnco.com,openpgp4fpr:2C2D7CBD437FBB9DEE4CFB666A5CED2B8E440317,,,https://www.southwest.com/security-researchers.txt,en,
+gilead.com,false,false,404,,,,,,,,,https://www.gilead.com/security.txt file may not exist - HTTP error code: 404
+53.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+centerpointenergy.com,false,false,500,,,,,,,,,https://www.centerpointenergy.com/.well-known/security.txt file may not exist - HTTP error code: 500
+camdenliving.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+mckesson.com,false,false,404,,,,,,,,,https://www.mckesson.com/security.txt file may not exist - HTTP error code: 404
+tesla.com,false,false,404,,,,,,,,,https://www.tesla.com/security.txt file may not exist - HTTP error code: 404
+xylem.com,false,false,404,,,,,,,,,https://www.xylem.com/security.txt file may not exist - HTTP error code: 404
+fcx.com,false,false,404,,,,,,,,,https://fcx.com/security.txt file may not exist - HTTP error code: 404
+packagingcorp.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+cintas.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+bakerhughes.com,false,false,404,,,,,,,,,https://www.bakerhughes.com/security.txt file may not exist - HTTP error code: 404
+viciproperties.com,false,false,404,,,,,,,,,https://viciproperties.com/security.txt file may not exist - HTTP error code: 404
+nvidia.com,false,false,404,,,,,,,,,https://www.nvidia.com/security.txt file may not exist - HTTP error code: 404
+kindermorgan.com,false,false,404,,,,,,,,,https://kindermorgan.com/security.txt file may not exist - HTTP error code: 404
+pepsico.com,false,false,403,,,,,,,,,https://www.pepsico.com/security.txt file may not exist - HTTP error code: 403
+dominionenergy.com,false,false,404,,,,,,,,,https://www.dominionenergy.com/security.txt file may not exist - HTTP error code: 404
+aflac.com,false,false,404,,,,,,,,,https://www.aflac.com/security.txt file may not exist - HTTP error code: 404
+corporate.charter.com,false,false,404,,,,,,,,,https://corporate.charter.com/security.txt file may not exist - HTTP error code: 404
+labcorp.com,false,false,404,,,,,,,,,https://www.labcorp.com/security.txt file may not exist - HTTP error code: 404
+pnc.com,false,false,404,,,,,,,,,https://www.pnc.com/security.txt file may not exist - HTTP error code: 404
+molinahealthcare.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+martinmarietta.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+microsoft.com,false,false,404,,,,,,,,,https://www.microsoft.com/security.txt file may not exist - HTTP error code: 404
+ppg.com,false,false,404,,,,,,,,,https://ppg.com/security.txt file may not exist - HTTP error code: 404
+te.com,false,false,403,,,,,,,,,https://www.te.com/security.txt file may not exist - HTTP error code: 403
+truist.com,false,false,404,,,,,,,,,https://www.truist.com/security.txt file may not exist - HTTP error code: 404
+campbellsoupcompany.com,false,false,404,,,,,,,,,https://campbellsoupcompany.com/security.txt file may not exist - HTTP error code: 404
+welltower.com,false,false,404,,,,,,,,,https://welltower.com/security.txt file may not exist - HTTP error code: 404
+phillips66.com,false,false,404,,,,,,,,,https://www.phillips66.com/security.txt file may not exist - HTTP error code: 404
+ansys.com,false,false,403,,,,,,,,,https://www.ansys.com/security.txt file may not exist - HTTP error code: 403
+walgreens.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+thewaltdisneycompany.com,false,false,404,,,,,,,,,https://thewaltdisneycompany.com/security.txt file may not exist - HTTP error code: 404
+lockheedmartin.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+loews.com,false,false,404,,,,,,,,,https://loews.com/security.txt file may not exist - HTTP error code: 404
+mtb.com,false,false,404,,,,,,,,,https://www3.mtb.com/security.txt file may not exist - HTTP error code: 404
+realtyincome.com,false,false,403,,,,,,,,,https://www.realtyincome.com/security.txt file may not exist - HTTP error code: 403
+gd.com,false,false,404,,,,,,,,,https://www.gd.com/security.txt file may not exist - HTTP error code: 404
+medtronic.com,false,false,404,,,,,,,,,https://www.medtronic.com/security.txt file may not exist - HTTP error code: 404
+wabteccorp.com,false,false,404,,,,,,,,,https://www.wabteccorp.com/security.txt file may not exist - HTTP error code: 404
+salesforce.com,false,false,404,,,,,,,,,https://www.salesforce.com/security.txt?bc=HL file may not exist - HTTP error code: 404
+cvshealth.com,false,false,403,,,,,,,,,https://www.cvshealth.com/security.txt file may not exist - HTTP error code: 403
+keysight.com,false,false,500,,,,,,,,,https://www.keysight.com/.well-known/security.txt file may not exist - HTTP error code: 500
+valero.com,false,false,404,,,,,,,,,https://www.valero.com/security.txt file may not exist - HTTP error code: 404
+publicstorage.com,false,false,404,,,,,,,,,https://www.publicstorage.com/security.txt file may not exist - HTTP error code: 404
+ups.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+criver.com,false,false,403,,,,,,,,,https://www.criver.com/security.txt file may not exist - HTTP error code: 403
+aligntech.com,false,false,404,,,,,,,,,https://www.aligntech.com:443/security.txt file may not exist - HTTP error code: 404
+oracle.com,false,false,404,,,,,,,,,https://www.oracle.com/security.txt file may not exist - HTTP error code: 404
+bnymellon.com,false,false,404,,,,,,,,,https://www.bnymellon.com/security.txt file may not exist - HTTP error code: 404
+biogen.com,false,false,404,,,,,,,,,https://www.biogen.com/security.txt file may not exist - HTTP error code: 404
+healthpeak.com,false,false,404,,,,,,,,,https://www.healthpeak.com/security.txt file may not exist - HTTP error code: 404
+mosaicco.com,false,false,404,,,,,,,,,https://mosaicco.com/security.txt file may not exist - HTTP error code: 404
+jacobs.com,false,false,404,,,,,,,,,https://www.jacobs.com/security.txt file may not exist - HTTP error code: 404
+johnsoncontrols.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+irco.com,false,false,404,,,,,,,,,https://www.irco.com/en/security.txt file may not exist - HTTP error code: 404
+modernatx.com,false,false,404,,,,,,,,,https://www.modernatx.com/security.txt file may not exist - HTTP error code: 404
+ametek.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+republicservices.com,false,false,404,,,,,,,,,https://www.republicservices.com/security.txt file may not exist - HTTP error code: 404
+otis.com,false,false,404,,,,,,,,,https://otis.com/security.txt file may not exist - HTTP error code: 404
+danaher.com,false,false,404,,,,,,,,,https://www.danaher.com/security.txt file may not exist - HTTP error code: 404
+northropgrumman.com,false,false,404,,,,,,,,,https://www.northropgrumman.com/security.txt file may not exist - HTTP error code: 404
+borgwarner.com,false,false,404,,,,,,,,,https://www.borgwarner.com/security.txt file may not exist - HTTP error code: 404
+iqvia.com,false,false,404,,,,,,,,,https://www.iqvia.com/security.txt file may not exist - HTTP error code: 404
+advanceautoparts.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+stryker.com,false,false,404,,,,,,,,,https://www.stryker.com//security.txt file may not exist - HTTP error code: 404
+elcompanies.com,false,false,403,,,,,,,,,https://www.elcompanies.com/security.txt file may not exist - HTTP error code: 403
+cisco.com,false,false,404,,,,,,,,,https://www.cisco.com/security.txt file may not exist - HTTP error code: 404
+amwater.com,false,false,404,,,,,,,,,https://www.amwater.com/security.txt file may not exist - HTTP error code: 404
+discover.com,false,false,404,,,,,,,,,https://www.discover.com/libs/cq/security/content/securityadmin.txt file may not exist - HTTP error code: 404
+zimmerbiomet.com,false,false,404,,,,,,,,,https://www.zimmerbiomet.com/security.txt file may not exist - HTTP error code: 404
+entergy.com,false,false,404,,,,,,,,,https://www.entergy.com/security.txt file may not exist - HTTP error code: 404
+marshmclennan.com,false,false,404,,,,,,,,,https://www.marshmclennan.com/security.txt file may not exist - HTTP error code: 404
+nucor.com,false,false,404,,,,,,,,,https://www.nucor.com/security.txt file may not exist - HTTP error code: 404
+thecloroxcompany.com,false,false,404,,,,,,,,,https://www.thecloroxcompany.com/security.txt file may not exist - HTTP error code: 404
+nielsen.com,false,false,404,,,,,,,,,https://www.nielsen.com/security.txt file may not exist - HTTP error code: 404
+lowes.com,false,false,500,,,,,,,,,https://www.lowes.com/.well-known/security.txt file may not exist - HTTP error code: 500
+key.com,false,false,404,,,,,,,,,https://www.key.com/security.txt file may not exist - HTTP error code: 404
+merck.com,false,false,404,,,,,,,,,https://www.merck.com/security.txt file may not exist - HTTP error code: 404
+mohawkind.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+tractorsupply.com,false,false,403,,,,,,,,,https://www.tractorsupply.com/security.txt file may not exist - HTTP error code: 403
+gm.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+bookingholdings.com,false,false,404,,,,,,,,,https://www.bookingholdings.com/security.txt file may not exist - HTTP error code: 404
+take2games.com,false,false,404,,,,,,,,,https://www.take2games.com/security.txt file may not exist - HTTP error code: 404
+unitedhealthgroup.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+broadridge.com,false,false,404,,,,,,,,,https://www.broadridge.com/security.txt file may not exist - HTTP error code: 404
+digitalrealty.com,false,false,404,,,,,,,,,https://www.digitalrealty.com/security.txt file may not exist - HTTP error code: 404
+embecta.com,false,false,404,,,,,,,,,https://www.embecta.com/security.txt file may not exist - HTTP error code: 404
+starbucks.com,false,false,404,,,,,,,,,https://www.starbucks.com/security.txt file may not exist - HTTP error code: 404
+southerncompany.com,false,false,404,,,,,,,,,https://www.southerncompany.com/security.txt file may not exist - HTTP error code: 404
+davita.com,false,false,404,,,,,,,,,https://www.davita.com/security.txt file may not exist - HTTP error code: 404
+equityapartments.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+regions.com,false,false,404,,,,,,,,,https://www.regions.com/security.txt file may not exist - HTTP error code: 404
+fmc.com,false,false,404,,,,,,,,,https://www.fmc.com/security.txt file may not exist - HTTP error code: 404
+crowncastle.com,false,false,404,,,,,,,,,https://www.crowncastle.com/security.txt file may not exist - HTTP error code: 404
+conocophillips.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+citrix.com,false,false,404,,,,,,,,,https://www.citrix.com/security.txt file may not exist - HTTP error code: 404
+dovercorporation.com,false,false,404,,,,,,,,,https://www.Dovercorporation.com/security.txt file may not exist - HTTP error code: 404
+colgatepalmolive.com,false,false,404,,,,,,,,,https://www.colgatepalmolive.com/en-us/security.txt file may not exist - HTTP error code: 404
+amerisourcebergen.com,false,false,404,,,,,,,,,https://www.amerisourcebergen.com/security.txt file may not exist - HTTP error code: 404
+firstrepublic.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.firstrepublic.com/.well-known/security.txt"": stopped after 10 redirects"
+qorvo.com,false,false,404,,,,,,,,,https://www.qorvo.com/security.txt file may not exist - HTTP error code: 404
+catalent.com,false,false,404,,,,,,,,,https://www.catalent.com/security.txt file may not exist - HTTP error code: 404
+ti.com,false,false,404,,,,,,,,,https://www.ti.com/security.txt file may not exist - HTTP error code: 404
+aes.com,false,false,404,,,,,,,,,https://www.aes.com/security.txt file may not exist - HTTP error code: 404
+questdiagnostics.com,false,false,404,,,,,,,,,https://www.questdiagnostics.com/security.txt file may not exist - HTTP error code: 404
+internationalpaper.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+thehartford.com,false,false,404,,,,,,,,,https://www.thehartford.com/security.txt file may not exist - HTTP error code: 404
+progressive.com,false,false,404,,,,,,,,,https://www.progressive.com/security.txt file may not exist - HTTP error code: 404
+adm.com,false,false,404,,,,,,,,,https://www.adm.com:443/en-us/security.txt file may not exist - HTTP error code: 404
+aosmith.com,false,false,404,,,,,,,,,https://www.aosmith.com/security.txt file may not exist - HTTP error code: 404
+metlife.com,false,false,404,,,,,,,,,https://www.metlife.com/security.txt file may not exist - HTTP error code: 404
+emerson.com,false,false,404,,,,,,,,,https://www.emerson.com/security.txt file may not exist - HTTP error code: 404
+nxp.com,false,false,404,,,,,,,,,https://www.nxp.com/security.txt file may not exist - HTTP error code: 404
+tjx.com,false,false,404,,,,,,,,,https://www.tjx.com/security.txt file may not exist - HTTP error code: 404
+odfl.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://odfl.com/.well-known/security.txt"": dial tcp 216.54.213.97:443: connect: connection refused"
+verisk.com,false,false,404,,,,,,,,,https://www.verisk.com/security.txt file may not exist - HTTP error code: 404
+zoetis.com,false,false,404,,,,,,,,,https://www.zoetis.com/security.txt file may not exist - HTTP error code: 404
+aig.com,false,false,404,,,,,,,,,https://www.aig.com:443/security.txt file may not exist - HTTP error code: 404
+wm.com,false,false,404,,,,,,,,,https://www.wm.com/security.txt file may not exist - HTTP error code: 404
+duke-energy.com,false,false,404,,,,,,,,,https://www.duke-energy.com/security.txt file may not exist - HTTP error code: 404
+abiomed.com,false,false,404,,,,,,,,,https://www.abiomed.com/security.txt file may not exist - HTTP error code: 404
+paychex.com,false,false,404,,,,,,,,,https://www.paychex.com/security.txt file may not exist - HTTP error code: 404
+exeloncorp.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://exeloncorp.com/.well-known/security.txt"": dial tcp 216.99.176.67:443: connect: connection refused"
+constellation.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://constellation.com/.well-known/security.txt"": dial tcp 216.99.176.67:443: connect: connection refused"
+ford.com,false,false,404,,,,,,,,,https://www.ford.com/security.txt file may not exist - HTTP error code: 404
+cinfin.com,false,false,404,,,,,,,,,https://www.cinfin.com/security.txt file may not exist - HTTP error code: 404
+centene.com,false,false,404,,,,,,,,,https://www.centene.com/security.txt file may not exist - HTTP error code: 404
+jbhunt.com,false,false,404,,,,,,,,,https://www.jbhunt.com/security.txt file may not exist - HTTP error code: 404
+hormelfoods.com,false,false,404,,,,,,,,,https://www.hormelfoods.com/security.txt file may not exist - HTTP error code: 404
+cfindustries.com,false,false,404,,,,,,,,,https://www.cfindustries.com/404?aspxerrorpath=/security.txt file may not exist - HTTP error code: 404
+masco.com,false,false,404,,,,,,,,,https://masco.com/security.txt file may not exist - HTTP error code: 404
+organon.com,false,false,404,,,,,,,,,https://www.organon.com/security.txt file may not exist - HTTP error code: 404
+newellbrands.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://newellbrands.com/.well-known/security.txt"": dial tcp 34.224.195.248:443: connect: connection refused"
+wellsfargo.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+coca-colacompany.com,false,false,404,,,,,,,,,https://www.coca-colacompany.com/security.txt file may not exist - HTTP error code: 404
+comcastcorporation.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+bostonscientific.com,false,false,404,,,,,,,,,https://www.bostonscientific.com/security.txt file may not exist - HTTP error code: 404
+up.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://up.com/.well-known/security.txt"": dial tcp 69.58.254.142:443: connect: connection refused"
+thermofisher.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+ball.com,false,false,404,,,,,,,,,https://www.ball.com/security.txt file may not exist - HTTP error code: 404
+sherwin-williams.com,false,false,500,,,,,,,,,https://www.sherwin-williams.com/security.txt file may not exist - HTTP error code: 500
+kla.com,false,false,404,,,,,,,,,https://www.kla.com/security.txt file may not exist - HTTP error code: 404
+dxc.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+amgen.com,false,false,404,,,,,,,,,https://www.amgen.com/security.txt file may not exist - HTTP error code: 404
+tranetechnologies.com,false,false,404,,,,,,,,,https://www.tranetechnologies.com/security.txt file may not exist - HTTP error code: 404
+xcelenergy.com,false,false,404,,,,,,,,,https://www.xcelenergy.com/security.txt file may not exist - HTTP error code: 404
+fortinet.com,true,true,200,,https://www.fortinet.com/.well-known/security.txt,https://www.fortiguard.com/faq/psirt-contact,https://www.fortiguard.com/pgpkey,2025-12-31T08:00:00.000Z,https://www.fortinet.com/corporate/careers,https://www.fortiguard.com/psirt_policy,"en,  fr",
+principal.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+wynnresorts.com,false,false,404,,,,,,,,,https://www.wynnresorts.com/security.txt file may not exist - HTTP error code: 404
+sealedair.com,false,false,404,,,,,,,,,https://www.sealedair.com/security.txt file may not exist - HTTP error code: 404
+ralphlauren.com,false,false,403,,,,,,,,,https://www.ralphlauren.co.uk/homepage?ab=Geo_iUK_rUS_dUK&locale=en_GB file may not exist - HTTP error code: 403
+unitedrentals.com,false,false,404,,,,,,,,,https://www.unitedrentals.com/security.txt file may not exist - HTTP error code: 404
+marathonpetroleum.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://marathonpetroleum.com/.well-known/security.txt"": dial tcp 104.130.204.252:443: connect: connection refused"
+atmosenergy.com,false,false,404,,,,,,,,,https://atmosenergy.com/security.txt file may not exist - HTTP error code: 404
+broadcom.com,false,false,404,,,,,,,,,https://www.broadcom.com/security.txt file may not exist - HTTP error code: 404
+alaskaair.com,false,false,403,,,,,,,,,https://www.alaskaair.com/security.txt file may not exist - HTTP error code: 403
+lennar.com,false,false,404,,,,,,,,,https://www.lennar.com/security.txt file may not exist - HTTP error code: 404
+bd.com,false,false,404,,,,,,,,,https://www.bd.com/security.txt file may not exist - HTTP error code: 404
+rocktenn.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://rocktenn.com/.well-known/security.txt"": dial tcp 162.34.240.179:443: connect: connection refused"
+garmin.com,false,false,404,,,,,,,,,https://www.garmin.com/en-GB/security.txt/ file may not exist - HTTP error code: 404
+coopercos.com,false,false,404,,,,,,,,,https://www.coopercos.com/security.txt file may not exist - HTTP error code: 404
+poolcorp.com,false,false,404,,,,,,,,,https://www.poolcorp.com/security.txt file may not exist - HTTP error code: 404
+molsoncoors.com,false,false,404,,,,,,,,,https://www.molsoncoors.com/security.txt file may not exist - HTTP error code: 404
+cigna.com,false,false,404,,,,,,,,,https://www.cigna.com/security.txt file may not exist - HTTP error code: 404
+exxonmobil.com,false,false,404,,,,,,,,,https://www.exxonmobil.com/security.txt file may not exist - HTTP error code: 404
+aboutschwab.com,false,false,403,,,,,,,,,https://www.aboutschwab.com/security.txt file may not exist - HTTP error code: 403
+synopsys.com,false,false,404,,,,,,,,,https://www.synopsys.com/security.txt file may not exist - HTTP error code: 404
+kimberly-clark.com,false,false,404,,,,,,,,,https://www.kimberly-clark.com/en-us/security.txt?404;http://www.kimberly-clark.com:80/security.txt file may not exist - HTTP error code: 404
+rockwellautomation.com,false,false,404,,,,,,,,,https://www.rockwellautomation.com/security.txt file may not exist - HTTP error code: 404
+accenture.com,false,false,404,,,,,,,,,https://www.accenture.com/us-en/error/pagenotfound?errSrc=%2fsecurity.txt file may not exist - HTTP error code: 404
+pplweb.com,false,false,404,,,,,,,,,https://www.pplweb.com/security.txt file may not exist - HTTP error code: 404
+arista.com,false,false,404,,,,,,,,,https://www.arista.com/en/security.txt file may not exist - HTTP error code: 404
+darden.com,false,false,404,,,,,,,,,https://www.darden.com/security.txt file may not exist - HTTP error code: 404
+cummins.com,false,false,404,,,,,,,,,https://www.cummins.com/security.txt file may not exist - HTTP error code: 404
+travelers.com,false,false,404,,,,,,,,,https://www.travelers.com/security.txt file may not exist - HTTP error code: 404
+cadence.com,false,false,404,,,,,,,,,https://www.cadence.com:443/security.txt file may not exist - HTTP error code: 404
+thehersheycompany.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+bankofamerica.com,false,false,404,,,,,,,,,https://www.bankofamerica.com/banking-information/error-page-en.html file may not exist - HTTP error code: 404
+conagrabrands.com,false,false,404,,,,,,,,,https://www.conagrabrands.com/security.txt file may not exist - HTTP error code: 404
+mccormickcorporation.com,false,false,404,,,,,,,,,https://www.mccormickcorporation.com/security.txt file may not exist - HTTP error code: 404
+aon.com,false,false,404,,,,,,,,,https://www.aon.com/security.txt file may not exist - HTTP error code: 404
+devonenergy.com,false,false,404,,,,,,,,,https://www.devonenergy.com/security.txt file may not exist - HTTP error code: 404
+williams.com,false,false,404,,,,,,,,,https://www.williams.com/security.txt file may not exist - HTTP error code: 404
+lamresearch.com,false,false,404,,,,,,,,,https://www.lamresearch.com/security.txt file may not exist - HTTP error code: 404
+idexx.com,false,false,404,,,,,,,,,https://www.idexx.com/en/security.txt/ file may not exist - HTTP error code: 404
+jackhenry.com,false,false,404,,,,,,,,,https://www.jackhenry.com/security.txt file may not exist - HTTP error code: 404
+raymondjames.com,false,false,404,,,,,,,,,https://www.raymondjames.com/security.txt file may not exist - HTTP error code: 404
+statestreet.com,false,false,404,,,,,,,,,https://www.statestreet.com//security.txt file may not exist - HTTP error code: 404
+citigroup.com,false,false,404,,,,,,,,,https://www.citigroup.com/security.txt file may not exist - HTTP error code: 404
+chubb.com,false,false,404,,,,,,,,,https://www.chubb.com/security.txt file may not exist - HTTP error code: 404
+roberthalf.com,false,false,404,,,,,,,,,https://www.roberthalf.com/security.txt file may not exist - HTTP error code: 404
+alliantenergy.com,false,false,404,,,,,,,,,https://www.alliantenergy.com/security.txt file may not exist - HTTP error code: 404
+nisource.com,false,false,404,,,,,,,,,https://www.nisource.com/security.txt file may not exist - HTTP error code: 404
+regeneron.com,false,false,404,,,,,,,,,https://www.regeneron.com/security.txt file may not exist - HTTP error code: 404
+dow.com,false,false,404,,,,,,,,,https://www.dow.com//security.txt file may not exist - HTTP error code: 404
+lumen.com,false,false,404,,,,,,,,,https://www.lumen.com/security.txt file may not exist - HTTP error code: 404
+udr.com,false,false,404,,,,,,,,,https://www.udr.com/security.txt file may not exist - HTTP error code: 404
+boeing.com,false,false,404,,,,,,,,,https://www.boeing.com/advertising/info_solution file may not exist - HTTP error code: 404
+thekrogerco.com,false,false,404,,,,,,,,,https://www.thekrogerco.com/security.txt file may not exist - HTTP error code: 404
+ameriprise.com,false,false,404,,,,,,,,,https://www.ameriprise.com/security.txt file may not exist - HTTP error code: 404
+vulcanmaterials.com,false,false,404,,,,,,,,,https://www.vulcanmaterials.com/security.txt file may not exist - HTTP error code: 404
+antheminc.com,false,false,404,,,,,,,,,https://www.antheminc.com/security.txt file may not exist - HTTP error code: 404
+dukerealty.com,false,false,404,,,,,,,,,https://www.dukerealty.com/security.txt file may not exist - HTTP error code: 404
+ebay.com,false,false,404,,,,,,,,,https://www.ebay.com/n/error file may not exist - HTTP error code: 404
+juniper.net,false,false,404,,,,,,,,,https://www.juniper.net/security.txt file may not exist - HTTP error code: 404
+prologis.com,false,false,404,,,,,,,,,https://www.prologis.com/security.txt file may not exist - HTTP error code: 404
+usbank.com,false,false,404,,,,,,,,,https://www.usbank.com/security.txt file may not exist - HTTP error code: 404
+pfizer.com,false,false,404,,,,,,,,,https://www.pfizer.com/security.txt file may not exist - HTTP error code: 404
+pngaming.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+att.com,false,false,404,,,,,,,,,https://www.att.com/security.txt file may not exist - HTTP error code: 404
+whirlpoolcorp.com,false,false,404,,,,,,,,,https://whirlpoolcorp.com/security.txt file may not exist - HTTP error code: 404
+micron.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+jpmorganchase.com,false,false,404,,,,,,,,,https://www.jpmorganchase.com/security.txt file may not exist - HTTP error code: 404
+nike.com,false,false,404,,,,,,,,,https://www.nike.com/security.txt file may not exist - HTTP error code: 404
+expeditors.com,false,false,404,,,,,,,,,https://www.expeditors.com/security.txt file may not exist - HTTP error code: 404
+weyerhaeuser.com,false,false,404,,,,,,,,,https://www.weyerhaeuser.com/security.txt file may not exist - HTTP error code: 404
+edison.com,false,false,404,,,,,,,,,https://www.edison.com/security.txt file may not exist - HTTP error code: 404
+albemarle.com,false,false,404,,,,,,,,,https://www.albemarle.com/security.txt file may not exist - HTTP error code: 404
+coterra.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+globelifeinsurance.com,false,false,404,,,,,,,,,https://www.globelifeinsurance.com/security.txt file may not exist - HTTP error code: 404
+conedison.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+aptiv.com,false,false,404,,,,,,,,,https://www.aptiv.com/security.txt file may not exist - HTTP error code: 404
+northerntrust.com,false,false,404,,,,,,,,,https://www.northerntrust.com/security.txt file may not exist - HTTP error code: 404
+leidos.com,false,false,404,,,,,,,,,https://www.leidos.com/security.txt file may not exist - HTTP error code: 404
+monolithicpower.com,false,false,404,,,,,,,,,https://www.monolithicpower.com/security.txt file may not exist - HTTP error code: 404
+allstate.com,false,false,404,,,,,,,,,https://www.allstate.com/security.txt file may not exist - HTTP error code: 404
+hologic.com,false,false,404,,,,,,,,,https://www.hologic.com/security.txt file may not exist - HTTP error code: 404
+nrg.com,false,false,404,,,,,,,,,https://www.nrg.com/error.html file may not exist - HTTP error code: 404
+hasbro.com,false,false,404,,,,,,,,,https://www.hasbro.com/security.txt file may not exist - HTTP error code: 404
+edwards.com,false,false,404,,,,,,,,,https://www.edwards.com/security.txt file may not exist - HTTP error code: 404
+equinix.com,false,false,403,,,,,,,,,https://www.equinix.com/security.txt file may not exist - HTTP error code: 403
+wrberkley.com,false,false,404,,,,,,,,,https://www.berkley.com/security.txt file may not exist - HTTP error code: 404
+willistowerswatson.com,false,false,404,,,,,,,,,https://www.wtwco.com/security.txt file may not exist - HTTP error code: 404
+regencycenters.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://regencycenters.com/.well-known/security.txt"": EOF"
+allegion.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://allegion.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+pultegroupinc.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+carmax.com,true,true,200,,,mailto:responsible_disclosure@carmax.com,,2024-12-31T05:00:00.000Z,https://careers.carmax.com/us/en/search-results?keywords=cybersecurity,,en,
+pvh.com,false,false,404,,,,,,,,,https://pvh.com/security.txt file may not exist - HTTP error code: 404
+interpublic.com,false,false,0,,,,,,,,,"HTTP response error: Get ""http://www.interpublic.com.well-known/security.txt"": dial tcp: lookup www.interpublic.com.well-known on 1.1.1.1:53: no such host"
+capitalone.com,false,false,404,,,,,,,,,https://www.capitalone.com/page-not-found/ file may not exist - HTTP error code: 404
+bbinsurance.com,false,false,404,,,,,,,,,https://bbinsurance.com/security.txt file may not exist - HTTP error code: 404
+idexcorp.com,false,false,404,,,,,,,,,https://www.idexcorp.com/security.txt file may not exist - HTTP error code: 404
+perkinelmer.com,false,false,404,,,,,,,,,https://www.perkinelmer.com/corporate/error/404.html?aspxerrorpath=/security.txt file may not exist - HTTP error code: 404
+incyte.com,false,false,404,,,,,,,,,https://incyte.com/security.txt file may not exist - HTTP error code: 404
+transdigm.com,false,false,404,,,,,,,,,https://www.transdigm.com/security.txt file may not exist - HTTP error code: 404
+intel.com,true,true,200,,https://www.intel.com/security.txt,"mailto:secure@intel.com, mailto:external.security.research@intel.com",https://www.intel.com/content/www/us/en/security-center/pgp-public-key.html,2022-10-11T19:30:00.000Z,https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html,https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html,en,
+tylertech.com,false,false,404,,,,,,,,,https://tylertech.com/security.txt file may not exist - HTTP error code: 404
+paccar.com,false,false,404,,,,,,,,,https://paccar.com/security.txt file may not exist - HTTP error code: 404
+americanexpress.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+chrobinson.com,false,false,404,,,,,,,,,https://www.chrobinson.com/page-not-found/?item=%2fsecurity&user=extranet%5cAnonymous&site=chrobinson-en file may not exist - HTTP error code: 404
+amcor.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+dentsplysirona.com,false,false,404,,,,,,,,,https://dentsplysirona.com/security.txt file may not exist - HTTP error code: 404
+motorolasolutions.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+trimble.com,false,false,404,,,,,,,,,https://www.trimble.com/security.txt file may not exist - HTTP error code: 404
+pmi.com,false,false,404,,,,,,,,,https://www.pmi.com:443/security.txt file may not exist - HTTP error code: 404
+sysco.com,false,false,404,,,,,,,,,https://sysco.com/security.txt file may not exist - HTTP error code: 404
+nasdaq.com,false,false,403,,,,,,,,,https://www.nasdaq.com/security.txt file may not exist - HTTP error code: 403
+teradyne.com,false,false,404,,,,,,,,,https://teradyne.com/security.txt file may not exist - HTTP error code: 404
+nvrinc.com,false,false,404,,,,,,,,,https://nvrinc.com/security.txt file may not exist - HTTP error code: 404
+rossstores.com,false,false,404,,,,,,,,,https://rossstores.com/security.txt file may not exist - HTTP error code: 404
+seagate.com,false,false,404,,,,,,,,,https://www.seagate.com/security.txt file may not exist - HTTP error code: 404
+autodesk.com,false,false,403,,,,,,,,,https://www.autodesk.com/security.txt file may not exist - HTTP error code: 403
+cbre.com,false,false,403,,,,,,,,,https://www.cbre.com/security.txt file may not exist - HTTP error code: 403
+aa.com,false,false,404,,,,,,,,,https://www.aa.com/security.txt file may not exist - HTTP error code: 404
+ptc.com,false,false,404,,,,,,,,,https://www.ptc.com/security.txt file may not exist - HTTP error code: 404
+foxcorporation.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.foxcorporation.com/.well-known/security.txt"": stopped after 10 redirects"
+ceridian.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+usa.visa.com,false,false,404,,,,,,,,,https://usa.visa.com/security.txt file may not exist - HTTP error code: 404
+westpharma.com,false,false,404,,,,,,,,,https://www.westpharma.com/security.txt file may not exist - HTTP error code: 404
+marathonoil.com,false,false,404,,,,,,,,,https://www.marathonoil.com/security.txt file may not exist - HTTP error code: 404
+rollins.com,false,false,404,,,,,,,,,https://www.rollins.com/security.txt file may not exist - HTTP error code: 404
+ironmountain.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+marriott.com,true,true,200,https://hackerone.com/marriott/thanks,,mailto:security@marriott.com,,,,https://hackerone.com/marriott,,
+caesars.com,false,false,403,,,,,,,,,https://caesars.com/security.txt file may not exist - HTTP error code: 403
+onsemi.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+ViacomCBS.com,false,false,404,,,,,,,,,https://www.paramount.com/security.txt file may not exist - HTTP error code: 404
+itw.com,false,false,404,,,,,,,,,https://www.itw.com/security.txt/ file may not exist - HTTP error code: 404
+fisglobal.com,false,false,404,,,,,,,,,https://www.fisglobal.com/security.txt file may not exist - HTTP error code: 404
+blackrock.com,false,false,404,,,,,,,,,https://www.blackrock.com/security.txt file may not exist - HTTP error code: 404
+cdw.com,false,false,404,,,,,,,,,https://www.cdw.com/security.txt file may not exist - HTTP error code: 404
+avalonbay.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+lfg.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+verisign.com,false,false,404,,,,,,,,,https://www.verisign.com/security.txt file may not exist - HTTP error code: 404
+dollargeneral.com,true,false,200,,,,,,,,,File is empty
+intuitive.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+wdc.com,false,false,404,,,,,,,,,https://www.wd.com/security.txt file may not exist - HTTP error code: 404
+textron.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+mgmresorts.com,false,false,404,,,,,,,,,https://www.mgmresorts.com/security.txt file may not exist - HTTP error code: 404
+mastercard.com,false,false,404,,,,,,,,,https://www.mastercard.com/security.txt file may not exist - HTTP error code: 404
+vno.com,false,false,404,,,,,,,,,https://www.vno.com/security.txt file may not exist - HTTP error code: 404
+f5.com,false,false,404,,,,,,,,,https://www.f5.com/security.txt file may not exist - HTTP error code: 404
+generalmills.com,false,false,404,,,,,,,,,https://www.generalmills.com/security.txt file may not exist - HTTP error code: 404
+tapestry.com,false,false,404,,,,,,,,,https://www.tapestry.com/security.txt/ file may not exist - HTTP error code: 404
+equifax.com,false,false,404,,,,,,,,,https://www.equifax.com/security.txt file may not exist - HTTP error code: 404
+bio-rad.com,false,false,404,,,,,,,,,https://www.bio-rad.com:443/security.txt file may not exist - HTTP error code: 404
+cognizant.com,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+hess.com,false,false,404,,,,,,,,,https://www.hess.com/security.txt file may not exist - HTTP error code: 404
+csx.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+federalrealty.com,false,false,404,,,,,,,,,https://www.federalrealty.com/security.txt file may not exist - HTTP error code: 404
+ropertech.com,false,false,404,,,,,,,,,https://www.ropertech.com/security.txt file may not exist - HTTP error code: 404
+fastenal.com,false,false,404,,,,,,,,,https://www.fastenal.com/security.txt file may not exist - HTTP error code: 404
+assurant.com,false,false,404,,,,,,,,,https://www.assurant.com/security.txt file may not exist - HTTP error code: 404
+honeywell.com,false,false,0,,,,,,,,,"HTTP response error: Get ""/"": stopped after 10 redirects"
+generac.com,false,false,404,,,,,,,,,https://www.generac.com/security.txt file may not exist - HTTP error code: 404
+goldmansachs.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://goldmansachs.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+caterpillar.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.caterpillar.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+dteenergy.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.dteenergy.com/apperror.html"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+genpt.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://genpt.com/.well-known/security.txt"": dial tcp 204.74.99.100:443: i/o timeout (Client.Timeout exceeded while awaiting headers)"
+delta.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://delta.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+steris-ir.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://sterisplc.gcs-web.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+maac.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://maac.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+kelloggcompany.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://kelloggcompany.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+waters.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://waters.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+netapp.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.netapp.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+jmsmucker.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://jmsmucker.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+eaton.com,false,false,0,,,,,,,,,"HTTP response error: Get ""http://www.eaton.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+altria.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://altria.com/.well-known/security.txt"": dial tcp 165.160.15.20:443: i/o timeout (Client.Timeout exceeded while awaiting headers)"
+humana.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://humana.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+cmegroup.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://cmegroup.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+ge.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ge.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+investors.target.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://investors.target.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+averydennison.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://averydennison.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+msci.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://msci.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+baxter.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://baxter.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+phstock.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://investors.parker.com/"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+illumina.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://illumina.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+dupont.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://dupont.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+corteva.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://corteva.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+oreillyauto.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.oreillyauto.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+kraftheinzcompany.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://kraftheinzcompany.com/.well-known/security.txt"": dial tcp 20.36.154.232:443: i/o timeout (Client.Timeout exceeded while awaiting headers)"
+halliburton.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://halliburton.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+moodys.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://moodys.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+everestre.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://everestre.com/.well-known/security.txt"": dial tcp 165.160.13.20:443: i/o timeout (Client.Timeout exceeded while awaiting headers)"
+lambweston.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://lambweston.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+fbhs.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.fbhs.com/"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+comerica.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.comerica.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+pinnaclewest.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://pinnaclewest.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+rclcorporate.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.rclcorporate.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+bbwinc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.bbwinc.com"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+dish.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://dish.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+unitedcontinentalholdings.com,false,false,0,,,,,,,,,"HTTP response error: Get ""http://www.united.com/en/us/newsroom"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+microchip.com,false,false,404,,,,,,,,,https://www.microchip.com/en-us/404 file may not exist - HTTP error code: 404
+bio-techne.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://bio-techne.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+ecolab.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.ecolab.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+hilton.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.hilton.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+synchronyfinancial.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://synchronyfinancial.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+resmed.com,false,false,404,,,,,,,,,https://www.resmed.com//security.txt file may not exist - HTTP error code: 404

@@ -1,0 +1,501 @@
+domain,is_file_found,is_file_valid,http_status,acknowledgments,canonical,contact,encryption,expires,hiring,policy,preferred_languages,errors
+ytimg.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ytimg.com/.well-known/security.txt"": dial tcp: lookup ytimg.com on 1.1.1.1:53: no such host"
+googleusercontent.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://googleusercontent.com/.well-known/security.txt"": dial tcp: lookup googleusercontent.com on 1.1.1.1:53: no such host"
+bp.blogspot.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://bp.blogspot.com/.well-known/security.txt"": dial tcp: lookup bp.blogspot.com on 1.1.1.1:53: no such host"
+clickbank.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://clickbank.net/.well-known/security.txt"": dial tcp: lookup clickbank.net on 1.1.1.1:53: no such host"
+akamaihd.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://akamaihd.net/.well-known/security.txt"": dial tcp: lookup akamaihd.net on 1.1.1.1:53: no such host"
+rapidshare.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://rapidshare.com/.well-known/security.txt"": dial tcp 0.0.0.0:443: connect: connection refused"
+akamaized.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://akamaized.net/.well-known/security.txt"": dial tcp: lookup akamaized.net on 1.1.1.1:53: no such host"
+ssl-images-amazon.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ssl-images-amazon.com/.well-known/security.txt"": dial tcp: lookup ssl-images-amazon.com on 1.1.1.1:53: no such host"
+doubleclick.net,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+ggpht.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ggpht.com/.well-known/security.txt"": dial tcp: lookup ggpht.com on 1.1.1.1:53: no such host"
+pixabay.com,false,false,403,,,,,,,,,https://pixabay.com/security.txt file may not exist - HTTP error code: 403
+books.google.com,false,false,404,,,,,,,,,https://books.google.com/security.txt file may not exist - HTTP error code: 404
+ipv4.google.com,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+google.fr,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+vimeo.com,true,true,200,,,https://hackerone.com/vimeo/reports/new/,,,https://vimeo.com/jobs#engineering,https://hackerone.com/vimeo/,,
+discord.gg,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+goo.gl,false,false,400,,,,,,,,,https://goo.gl/.well-known/security.txt file may not exist - HTTP error code: 400
+google.ca,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+mega.nz,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+guardian.co.uk,true,true,200,,https://www.theguardian.com/.well-known/security.txt,mailto:appsec@theguardian.com,https://www.theguardian.com/pgp/PublicKeys/Guardian%20Application-Security.pub.txt,,https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5B%5D=&query=information+security&submit=Search+Jobs,,,
+wa.me,false,false,400,,,,,,,,,https://api.whatsapp.com/resolve/?deeplink=%2F.well-known%2Fsecurity.txt&not_found=1 file may not exist - HTTP error code: 400
+privacyshield.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://privacyshield.gov/.well-known/security.txt"": EOF"
+theguardian.com,true,true,200,,https://www.theguardian.com/.well-known/security.txt,mailto:appsec@theguardian.com,https://www.theguardian.com/pgp/PublicKeys/Guardian%20Application-Security.pub.txt,,https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5B%5D=&query=information+security&submit=Search+Jobs,,,
+finance.yahoo.com,true,true,200,https://hackerone.com/yahoo/thanks,,"mailto:security@yahooinc.com, https://hackerone.com/yahoo",,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,,
+spotify.com,true,true,200,,https://www.spotify.com/.well-known/security.txt,mailto:security@spotify.com,,,https://www.spotifyjobs.com/,https://www.spotify.com/bounty,"en,  sv",
+www.wix.com,true,true,200,,,mailto:security-report@wix.com,,,,,,
+ft.com,true,true,200,,,mailto:cyber.security@ft.com,,2022-11-15T12:00:00.000Z,https://ft.com/careers,,,
+search.yahoo.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+translate.google.com,false,false,404,,,,,,,,,https://translate.google.com/security.txt file may not exist - HTTP error code: 404
+adssettings.google.com,false,false,404,,,,,,,,,https://adssettings.google.com/security.txt file may not exist - HTTP error code: 404
+google.nl,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+dropbox.com,true,true,200,https://hackerone.com/dropbox/thanks,,https://hackerone.com/dropbox/,,,https://www.dropbox.com/jobs/search?q=security,https://hackerone.com/dropbox/,,
+windows.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://windows.net/.well-known/security.txt"": x509: certificate is valid for *.oneroute.microsoft.com, oneroute.microsoft.com, not windows.net"
+godaddy.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://godaddy.com/.well-known/security.txt"": EOF"
+nydailynews.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nydailynews.com/.well-known/security.txt"": remote error: tls: internal error"
+de.wikipedia.org,false,false,404,,,,,,,,,https://de.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+unsplash.com,true,true,200,,,support@unsplash.com,https://keybase.io/elcuervo/pgp_keys.asc,,,,,
+twimg.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://twimg.com/.well-known/security.txt"": dial tcp: lookup twimg.com on 1.1.1.1:53: no such host"
+forms.gle,false,false,400,,,,,,,,,https://forms.gle/.well-known/security.txt file may not exist - HTTP error code: 400
+docs.google.com,false,false,404,,,,,,,,,https://docs.google.com/security.txt file may not exist - HTTP error code: 404
+www.google.com,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+www.yahoo.com,true,true,200,https://hackerone.com/yahoo/thanks,,"mailto:security@yahooinc.com, https://hackerone.com/yahoo",,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,,
+pt.wikipedia.org,false,false,404,,,,,,,,,https://pt.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+fb.me,false,false,200,,,,,,,,,"Content-type (text/html; charset=""utf-8"") is not valid"
+google.es,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+ria.ru,false,false,403,,,,,,,,,https://ria.ru/security.txt file may not exist - HTTP error code: 403
+whatsapp.com,false,false,400,,,,,,,,,https://www.whatsapp.com/.well-known/security.txt file may not exist - HTTP error code: 400
+twitter.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+linkedin.com,true,true,200,,https://www.linkedin.com/.well-known/security.txt,"https://hackerone.com/linkedin, https://www.linkedin.com/help/linkedin/answer/62924",,,,https://hackerone.com/linkedin?view_policy=true,,
+google.pl,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+google.it,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+fb.com,false,false,200,,,,,,,,,"Content-type (text/html; charset=""utf-8"") is not valid"
+search.google.com,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+t.me,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+icann.org,true,true,200,,https://www.icann.org/.well-known/security.txt,"https://hackerone.com/icann, mailto:vulnerability@icann.org",https://www.icann.org/vulnerability-reports-public-key,,,https://www.icann.org/vulnerabilities,"en,  es,  fr,  ar,  ru,  zh",
+ads.google.com,false,false,404,,,,,,,,,https://ads.google.com/security.txt file may not exist - HTTP error code: 404
+accounts.google.com,false,false,404,,,,,,,,,https://accounts.google.com/security.txt file may not exist - HTTP error code: 404
+ovhcloud.com,true,true,200,https://yeswehack.com/programs/ovh,,csirt@ovhcloud.com,https://www.ovh.com/.well-known/security-ovh-emea.asc,,https://careers.ovh.com,https://yeswehack.com/programs/ovh,,
+ja.wikipedia.org,false,false,404,,,,,,,,,https://ja.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+amazon.com,true,true,200,,,https://hackerone.com/amazonvrp/reports/new,,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,,
+bild.de,true,true,200,,,mailto:security-incident.nmn@axelspringer.de,,2022-12-30T23:00:00.000Z,https://career.axelspringer.com/de/tech,,"en, de, es",
+disqus.com,false,false,404,,,,,,,,,https://disqus.com/security.txt file may not exist - HTTP error code: 404
+bbc.co.uk,true,true,200,,,mailto:security@bbc.co.uk,,,https://careerssearch.bbc.co.uk/jobs/search,https://www.bbc.com/backstage/security-disclosure-policy/,,
+lemonde.fr,false,false,404,,,,,,,,,https://www.lemonde.fr/security.txt file may not exist - HTTP error code: 404
+bbc.com,true,true,200,,,mailto:security@bbc.co.uk,,,https://careerssearch.bbc.co.uk/jobs/search,https://www.bbc.com/backstage/security-disclosure-policy/,,
+drive.google.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+pl.wikipedia.org,false,false,404,,,,,,,,,https://pl.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+mail.google.com,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+t.co,false,false,404,,,,,,,,,https://t.co/security.txt file may not exist - HTTP error code: 404
+discord.com,false,false,404,,,,,,,,,https://discord.com/security.txt file may not exist - HTTP error code: 404
+freepik.com,false,false,404,,,,,,,,,https://www.freepik.com/security.txt file may not exist - HTTP error code: 404
+bitly.com,true,true,200,,,security@bitly.com,https://bitly.com/security_pgp.txt,,,,,
+ru.wikipedia.org,false,false,404,,,,,,,,,https://ru.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+networkadvertising.org,false,false,503,,,,,,,,,https://networkadvertising.org/.well-known/security.txt file may not exist - HTTP error code: 503
+elpais.com,false,false,404,,,,,,,,,https://elpais.com/security.txt file may not exist - HTTP error code: 404
+id.wikipedia.org,false,false,404,,,,,,,,,https://id.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+nginx.org,false,false,404,,,,,,,,,https://nginx.org/security.txt file may not exist - HTTP error code: 404
+es.wikipedia.org,false,false,404,,,,,,,,,https://es.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+bandcamp.com,false,false,404,,,,,,,,,https://bandcamp.com/security.txt file may not exist - HTTP error code: 404
+fr.wikipedia.org,false,false,404,,,,,,,,,https://fr.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+foursquare.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+news.yahoo.com,true,true,200,https://hackerone.com/yahoo/thanks,,"mailto:security@yahooinc.com, https://hackerone.com/yahoo",,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,,
+techcrunch.com,true,true,200,https://hackerone.com/yahoo/thanks,,"mailto:security@yahooinc.com, https://hackerone.com/yahoo",,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,,
+opera.com,true,true,200,,,https://security.opera.com,,,,https://security.opera.com/policy,,
+gmail.com,false,false,404,,,,,,,,,https://gmail.com/security.txt file may not exist - HTTP error code: 404
+photobucket.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+doi.org,false,false,404,,,,,,,,,https://www.doi.org/security.txt file may not exist - HTTP error code: 404
+ibm.com,true,true,200,https://www.ibm.com/blogs/psirt/ibm-acknowledgement/,,"https://www.ibm.com/trust/security-psirt, https://hackerone.com/ibm?type=team, mailto:psirt@us.ibm.com",https://ibm.ent.box.com/s/gxyniavjpmqj6bnn3gsssirzbp6bmn8p,2022-09-08T12:00+0000,,,,
+youtube.com,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,,https://g.co/vrp,,
+express.co.uk,false,false,404,,,,,,,,,https://www.express.co.uk/security.txt file may not exist - HTTP error code: 404
+gizmodo.com,false,false,429,,,,,,,,,https://gizmodo.com/security.txt file may not exist - HTTP error code: 429
+www.livejournal.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.livejournal.com/security.txt"": EOF"
+google.de,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+google.co.jp,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+maps.google.com,false,false,404,,,,,,,,,https://maps.google.com/security.txt file may not exist - HTTP error code: 404
+urbandictionary.com,true,true,200,,,mailto:support@urbandictionary.com,,2025-01-12T08:00:00.000Z,,,en,
+google.com.br,true,true,200,https://bughunters.google.com/,,"https://g.co/vulnz, mailto:security@google.com",https://services.google.com/corporate/publickey.txt,,https://g.co/SecurityPrivacyEngJobs,https://g.co/vrp,,
+enable-javascript.com,false,false,404,,,,,,,,,https://enable-javascript.com/security.txt file may not exist - HTTP error code: 404
+flickr.com,true,true,200,,,https://hackerone.com/flickr,,,,,,
+feedburner.com,false,false,404,,,,,,,,,https://feedburner.com/security.txt file may not exist - HTTP error code: 404
+facebook.com,false,false,200,,,,,,,,,"Content-type (text/html; charset=""utf-8"") is not valid"
+tripadvisor.com,false,false,403,,,,,,,,,https://www.tripadvisor.com/security.txt file may not exist - HTTP error code: 403
+amazon.co.uk,true,true,200,,,https://hackerone.com/amazonvrp/reports/new,,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,,
+spiegel.de,false,false,404,,,,,,,,,https://www.spiegel.de/security.txt file may not exist - HTTP error code: 404
+youtu.be,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+pexels.com,false,false,403,,,,,,,,,https://www.pexels.com/security.txt file may not exist - HTTP error code: 403
+www.gov.uk,true,true,200,,,"https://hackerone.com/44c348eb-e030-4273-b445-d4a2f6f83ba8/embedded_submissions/new, https://www.gov.uk/contact/govuk",,2022-11-02 13:16:19+00:00,https://www.civilservicejobs.service.gov.uk/,https://www.gov.uk/help/report-vulnerability,,
+scribd.com,false,false,404,,,,,,,,,https://www.scribd.com/security.txt file may not exist - HTTP error code: 404
+theatlantic.com,false,false,404,,,,,,,,,https://www.theatlantic.com/security.txt file may not exist - HTTP error code: 404
+netflix.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+myaccount.google.com,false,false,404,,,,,,,,,https://myaccount.google.com/security.txt file may not exist - HTTP error code: 404
+ok.ru,false,false,404,,,,,,,,,https://ok.ru/security.txt file may not exist - HTTP error code: 404
+cbslocal.com,false,false,404,,,,,,,,,https://cbslocal.com/security.txt file may not exist - HTTP error code: 404
+tools.google.com,false,false,404,,,,,,,,,https://tools.google.com/security.txt file may not exist - HTTP error code: 404
+about.com,false,false,404,,,,,,,,,https://about.com/security.txt file may not exist - HTTP error code: 404
+bing.com,false,false,404,,,,,,,,,https://www.bing.com:443/security.txt?toWww=1&redig=2A3C28C10EC3420B8D22742463FF22B1 file may not exist - HTTP error code: 404
+yandex.ru,false,false,403,,,,,,,,,https://yandex.ru/security.txt file may not exist - HTTP error code: 403
+bit.ly,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+amzn.to,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+aol.com,true,true,200,https://hackerone.com/yahoo/thanks,,"mailto:security@yahooinc.com, https://hackerone.com/yahoo",,,https://www.yahooinc.com/careers/search.html?q=paranoids,https://hackerone.com/yahoo?view_policy=true,,
+uefa.com,false,false,404,,,,,,,,,https://www.uefa.com/security.txt file may not exist - HTTP error code: 404
+storage.googleapis.com,false,false,400,,,,,,,,,https://storage.googleapis.com/.well-known/security.txt file may not exist - HTTP error code: 400
+get.google.com,false,false,404,,,,,,,,,https://get.google.com/security.txt file may not exist - HTTP error code: 404
+mirror.co.uk,false,false,404,,,,,,,,,https://www.mirror.co.uk/security.txt file may not exist - HTTP error code: 404
+gstatic.com,false,false,404,,,,,,,,,https://www.gstatic.com/security.txt file may not exist - HTTP error code: 404
+domainmarket.com,false,false,404,,,,,,,,,https://www.domainmarket.com/security.txt file may not exist - HTTP error code: 404
+issuu.com,true,true,200,https://issuu.com/responsible-disclosure#hall-of-fame,,mailto:security@issuu.com,,,,https://issuu.com/responsible-disclosure,,
+developers.google.com,false,false,404,,,,,,,,,https://developers.google.com/security.txt file may not exist - HTTP error code: 404
+pinterest.fr,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+udemy.com,false,false,404,,,,,,,,,https://www.udemy.com/security.txt file may not exist - HTTP error code: 404
+android.com,false,false,404,,,,,,,,,https://www.android.com/security.txt file may not exist - HTTP error code: 404
+sites.google.com,false,false,404,,,,,,,,,https://sites.google.com/security.txt file may not exist - HTTP error code: 404
+support.google.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+genius.com,false,false,404,,,,,,,,,https://genius.com/security.txt file may not exist - HTTP error code: 404
+mashable.com,false,false,404,,,,,,,,,https://mashable.com/security.txt file may not exist - HTTP error code: 404
+20minutos.es,false,false,404,,,,,,,,,https://www.20minutos.es/security.txt/ file may not exist - HTTP error code: 404
+news.google.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+netlify.app,false,false,404,,,,,,,,,https://netlify.app/security.txt file may not exist - HTTP error code: 404
+nytimes.com,false,false,404,,,,,,,,,https://www.nytimes.com/security.txt file may not exist - HTTP error code: 404
+insider.com,false,false,404,,,,,,,,,https://www.insider.com/security.txt file may not exist - HTTP error code: 404
+whitehouse.gov,false,false,404,,,,,,,,,https://www.whitehouse.gov/security.txt file may not exist - HTTP error code: 404
+cnn.com,false,false,404,,,,,,,,,https://edition.cnn.com/security.txt file may not exist - HTTP error code: 404
+policies.google.com,false,false,404,,,,,,,,,https://policies.google.com/security.txt file may not exist - HTTP error code: 404
+as.com,false,false,404,,,,,,,,,https://as.com/security.txt file may not exist - HTTP error code: 404
+kickstarter.com,false,false,403,,,,,,,,,https://www.kickstarter.com/security.txt file may not exist - HTTP error code: 403
+hugedomains.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+tinyurl.com,false,false,404,,,,,,,,,https://tinyurl.com/security.txt file may not exist - HTTP error code: 404
+dictionary.com,false,false,404,,,,,,,,,https://www.dictionary.com/security.txt file may not exist - HTTP error code: 404
+googleblog.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+abril.com.br,false,false,404,,,,,,,,,https://abril.com.br/security.txt file may not exist - HTTP error code: 404
+house.gov,false,false,403,,,,,,,,,https://house.gov/security.txt file may not exist - HTTP error code: 403
+europa.eu,false,false,404,,,,,,,,,https://european-union.europa.eu/not-found_en file may not exist - HTTP error code: 404
+e-monsite.com,false,false,404,,,,,,,,,https://www.e-monsite.com/security.txt file may not exist - HTTP error code: 404
+fandom.com,false,false,404,,,,,,,,,https://www.fandom.com/security.txt file may not exist - HTTP error code: 404
+office.com,false,false,404,,,,,,,,,https://www.office.com/security.txt file may not exist - HTTP error code: 404
+cloudflare.com,true,true,200,,https://www.cloudflare.com/.well-known/security.txt,"https://hackerone.com/cloudflare, mailto:security@cloudflare.com, https://www.cloudflare.com/abuse/",https://www.cloudflare.com/gpg/security-at-cloudflare-pubkey-06A67236.txt,2023-03-22T15:03:49.827Z,https://www.cloudflare.com/careers/jobs/,https://www.cloudflare.com/disclosure,en,
+nationalgeographic.com,false,false,404,,,,,,,,,https://www.nationalgeographic.com/security.txt file may not exist - HTTP error code: 404
+eonline.com,false,false,404,,,,,,,,,https://www.eonline.com/security.txt file may not exist - HTTP error code: 404
+myspace.com,false,false,404,,,,,,,,,https://myspace.com/security.txt file may not exist - HTTP error code: 404
+bloglovin.com,false,false,404,,,,,,,,,https://www.bloglovin.com/security.txt file may not exist - HTTP error code: 404
+draft.blogger.com,false,false,404,,,,,,,,,https://draft.blogger.com/security.txt file may not exist - HTTP error code: 404
+medium.com,false,false,404,,,,,,,,,https://medium.com/security.txt file may not exist - HTTP error code: 404
+yadi.sk,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+ted.com,false,false,404,,,,,,,,,https://www.ted.com/security.txt file may not exist - HTTP error code: 404
+academia.edu,false,false,404,,,,,,,,,https://www.academia.edu:443/security.txt file may not exist - HTTP error code: 404
+instagram.com,false,false,404,,,,,,,,,https://www.instagram.com/security.txt/ file may not exist - HTTP error code: 404
+theverge.com,false,false,404,,,,,,,,,https://www.theverge.com/security.txt file may not exist - HTTP error code: 404
+abc.es,false,false,404,,,,,,,,,https://www.abc.es/security.txt file may not exist - HTTP error code: 404
+thefreedictionary.com,false,false,404,,,,,,,,,https://www.thefreedictionary.com/security.txt file may not exist - HTTP error code: 404
+sedo.com,false,false,404,,,,,,,,,https://sedo.com/us/security.txt file may not exist - HTTP error code: 404
+nature.com,false,false,404,,,,,,,,,https://www.nature.com/security.txt?error=cookies_not_supported&code=973346fb-2754-4ab9-a976-2efee5e8270c file may not exist - HTTP error code: 404
+independent.co.uk,false,false,404,,,,,,,,,https://www.independent.co.uk/security.txt file may not exist - HTTP error code: 404
+twitch.tv,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+leparisien.fr,false,false,404,,,,,,,,,https://www.leparisien.fr/security.txt file may not exist - HTTP error code: 404
+sapo.pt,false,false,404,,,,,,,,,https://www.sapo.pt/security.txt file may not exist - HTTP error code: 404
+cnet.com,false,false,404,,,,,,,,,https://www.cnet.com/security.txt file may not exist - HTTP error code: 404
+indiatimes.com,false,false,404,,,,,,,,,https://www.indiatimes.com/security.txt file may not exist - HTTP error code: 404
+vice.com,false,false,404,,,,,,,,,https://www.vice.com/security.txt file may not exist - HTTP error code: 404
+target.com,false,false,404,,,,,,,,,https://www.target.com/security.txt file may not exist - HTTP error code: 404
+gravatar.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+sendspace.com,false,false,404,,,,,,,,,https://www.sendspace.com/security.txt file may not exist - HTTP error code: 404
+oup.com,false,false,404,,,,,,,,,https://global.oup.com:443/security.txt file may not exist - HTTP error code: 404
+tmz.com,false,false,404,,,,,,,,,https://www.tmz.com/security.txt file may not exist - HTTP error code: 404
+addtoany.com,false,false,404,,,,,,,,,https://www.addtoany.com/security.txt file may not exist - HTTP error code: 404
+amazon.co.jp,true,true,200,,,https://hackerone.com/amazonvrp/reports/new,,,https://www.amazon.jobs/en/teams/infosec,https://hackerone.com/amazonvrp,,
+jimdofree.com,true,true,200,,,mailto:security@jimdo.com,,2022-09-26T22:00:00.000Z,https://careers.jimdo.com/,,en,
+dailymotion.com,true,true,200,,https://www.dailymotion.com/.well-known/security.txt,mailto:security@dailymotion.com,,,,https://faq.dailymotion.com/hc/en-us/p/vulnerability-disclosure,"en,  fr",
+groups.google.com,false,false,404,,,,,,,,,https://groups.google.com/security.txt file may not exist - HTTP error code: 404
+psychologytoday.com,false,false,403,,,,,,,,,https://www.psychologytoday.com/security.txt file may not exist - HTTP error code: 403
+live.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+cdc.gov,false,false,404,,,,,,,,,https://www.cdc.gov/security.txt file may not exist - HTTP error code: 404
+github.com,true,true,200,,https://github.com/.well-known/security.txt,https://hackerone.com/github,,2022-09-07T09:59:46z,https://github.com/about/careers,https://bounty.github.com,en,
+soundcloud.com,false,false,404,,,,,,,,,https://soundcloud.com/security.txt file may not exist - HTTP error code: 404
+gnu.org,false,false,404,,,,,,,,,https://www.gnu.org/security.txt file may not exist - HTTP error code: 404
+lenta.ru,false,false,404,,,,,,,,,https://lenta.ru/security.txt file may not exist - HTTP error code: 404
+imdb.com,false,false,404,,,,,,,,,https://www.imdb.com/security.txt file may not exist - HTTP error code: 404
+canada.ca,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+w3.org,true,true,200,,,mailto:openbugbounty@w3.org,,,,,,
+bloomberg.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+files.wordpress.com,false,false,403,,,,,,,,,https://files.wordpress.com/security.txt file may not exist - HTTP error code: 403
+sciencedirect.com,false,false,403,,,,,,,,,https://sciencedirect.com/security.txt file may not exist - HTTP error code: 403
+webmd.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+dan.com,false,false,500,,,,,,,,,https://dan.com/security.txt file may not exist - HTTP error code: 500
+arxiv.org,false,false,404,,,,,,,,,https://arxiv.org/security.txt file may not exist - HTTP error code: 404
+wired.com,false,false,404,,,,,,,,,https://www.wired.com/security.txt file may not exist - HTTP error code: 404
+4shared.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+wsj.com,false,false,404,,,,,,,,,https://wsj.com/security.txt file may not exist - HTTP error code: 404
+picasaweb.google.com,false,false,404,,,,,,,,,https://get.google.com/albumarchive/pwa/security.txt file may not exist - HTTP error code: 404
+ikea.com,false,false,404,,,,,,,,,https://www.ikea.com/security.txt file may not exist - HTTP error code: 404
+istockphoto.com,true,true,200,,,mailto:security@gettyimages.com,,2022-10-01T07:00:00.000Z,,,,
+www.weebly.com,false,false,404,,,,,,,,,https://www.weebly.com/security.txt file may not exist - HTTP error code: 404
+britannica.com,false,false,404,,,,,,,,,https://www.britannica.com/security.txt file may not exist - HTTP error code: 404
+mozilla.org,false,false,404,,,,,,,,,https://www.mozilla.org/en-US/security.txt file may not exist - HTTP error code: 404
+paypal.com,true,true,200,,https://www.paypalobjects.com/.well-known/security.txt,https://hackerone.com/paypal,,,https://jobsearch.paypal-corp.com/search?keywords=Cyber,https://hackerone.com/paypal?view_policy=true,,
+timeweb.ru,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+www.blogger.com,false,false,404,,,,,,,,,https://www.blogger.com/security.txt file may not exist - HTTP error code: 404
+steampowered.com,false,false,200,,,,,,,,,Content-type (application/json) is not valid
+vk.com,false,false,404,,,,,,,,,https://vk.com/security.txt file may not exist - HTTP error code: 404
+wordpress.org,true,true,200,,https://wordpress.org/.well-known/security.txt,https://hackerone.com/wordpress,,2024-12-31T15:00:00.000Z,,https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/,,
+dreamstime.com,false,false,403,,,,,,,,,https://www.dreamstime.com/security.txt file may not exist - HTTP error code: 403
+reuters.com,false,false,404,,,,,,,,,https://www.reuters.com/security.txt file may not exist - HTTP error code: 404
+buydomains.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+apple.com,false,false,404,,,,,,,,,https://www.apple.com/security.txt file may not exist - HTTP error code: 404
+newsweek.com,false,false,403,,,,,,,,,https://www.newsweek.com/security.txt file may not exist - HTTP error code: 403
+xing.com,true,true,200,,,mailto:security-reports@new-work.se,https://www.xing.com/0xD79C9B64ACC9BCB5.asc,,https://www.xing.com/jobs/search?keywords=%22NEW%20WORK%20SE%22%20Security,https://www.xing.com/rfc-2350.txt,,
+www.gov.br,false,false,404,,,,,,,,,https://www.gov.br/security.txt file may not exist - HTTP error code: 404
+who.int,false,false,404,,,,,,,,,https://www.who.int/security.txt file may not exist - HTTP error code: 404
+plos.org,false,false,404,,,,,,,,,https://plos.org/security.txt file may not exist - HTTP error code: 404
+yelp.com,false,false,404,,,,,,,,,https://www.yelp.com/security.txt file may not exist - HTTP error code: 404
+netvibes.com,false,false,404,,,,,,,,,https://www.netvibes.com/security.txt file may not exist - HTTP error code: 404
+rt.com,false,false,404,,,,,,,,,https://www.rt.com/security.txt/ file may not exist - HTTP error code: 404
+playstation.com,false,false,404,,,,,,,,,https://www.playstation.com/en-gb/security.txt/ file may not exist - HTTP error code: 404
+goodreads.com,false,false,404,,,,,,,,,https://www.goodreads.com/security.txt file may not exist - HTTP error code: 404
+prezi.com,false,false,404,,,,,,,,,https://prezi.com/security.txt file may not exist - HTTP error code: 404
+oracle.com,false,false,404,,,,,,,,,https://www.oracle.com/security.txt file may not exist - HTTP error code: 404
+surveymonkey.com,false,false,404,,,,,,,,,https://www.surveymonkey.com/security.txt file may not exist - HTTP error code: 404
+rbc.ru,false,false,404,,,,,,,,,https://www.rbc.ru:443/security.txt file may not exist - HTTP error code: 404
+stuff.co.nz,false,false,404,,,,,,,,,https://www.stuff.co.nz/security.txt file may not exist - HTTP error code: 404
+offset.com,false,false,404,,,,,,,,,https://www.offset.com:443/security.txt file may not exist - HTTP error code: 404
+worldbank.org,false,false,200,,,,,,,,,Content-type (text/html;charset=utf-8) is not valid
+adobe.com,true,true,200,,https://www.adobe.com/.well-known/security.txt,"https://hackerone.com/adobe, mailto:psirt@adobe.com",https://helpx.adobe.com/security.html/security/key.ug.html,2023-07-27T01:00:00.000Z,https://www.adobe.com/careers.html,https://helpx.adobe.com/security.html/security/policy.ug.html,"en,  ro,  hi",
+line.me,true,true,200,https://bugbounty.linecorp.com/en/halloffame/,,https://bugbounty.linecorp.com/en/apply/,,,https://linecorp.com/ja/career/position/498,https://bugbounty.linecorp.com/en/terms_of_use/,,
+liveinternet.ru,false,false,404,,,,,,,,,https://www.liveinternet.ru/security.txt file may not exist - HTTP error code: 404
+thetimes.co.uk,false,false,404,,,,,,,,,https://www.thetimes.co.uk/security.txt file may not exist - HTTP error code: 404
+espn.com,false,false,404,,,,,,,,,https://www.espn.com/security.txt file may not exist - HTTP error code: 404
+businessinsider.com,false,false,404,,,,,,,,,https://www.businessinsider.com/security.txt file may not exist - HTTP error code: 404
+sfgate.com,false,false,404,,,,,,,,,https://www.sfgate.com/security.txt file may not exist - HTTP error code: 404
+ea.com,false,false,404,,,,,,,,,https://www.ea.com/security.txt file may not exist - HTTP error code: 404
+dell.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+quora.com,false,false,429,,,,,,,,,https://www.quora.com/security.txt file may not exist - HTTP error code: 429
+slideshare.net,false,false,404,,,,,,,,,https://www.slideshare.net/security.txt file may not exist - HTTP error code: 404
+addthis.com,false,false,404,,,,,,,,,https://www.addthis.com/security.txt file may not exist - HTTP error code: 404
+eventbrite.com,false,false,404,,,,,,,,,https://www.eventbrite.com/security.txt file may not exist - HTTP error code: 404
+aboutads.info,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+time.com,false,false,404,,,,,,,,,https://time.com/security.txt file may not exist - HTTP error code: 404
+unicef.org,false,false,404,,,,,,,,,https://www.unicef.org/security.txt file may not exist - HTTP error code: 404
+cbsnews.com,false,false,404,,,,,,,,,https://www.cbsnews.com/security.txt/ file may not exist - HTTP error code: 404
+gofundme.com,true,true,200,,,,,2022-09-01T07:00:00.000Z,,https://www.gofundme.com/c/security,en,
+marketwatch.com,false,false,404,,,,,,,,,https://www.marketwatch.com/security.txt file may not exist - HTTP error code: 404
+tiktok.com,false,false,404,,,,,,,,,https://www.tiktok.com/404?fromUrl=/security.txt file may not exist - HTTP error code: 404
+zdf.de,false,false,404,,,,,,,,,https://www.zdf.de/security.txt file may not exist - HTTP error code: 404
+secureserver.net,false,false,404,,,,,,,,,https://www.secureserver.net/security.txt file may not exist - HTTP error code: 404
+ouest-france.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ouest-france.fr/.well-known/security.txt"": dial tcp 217.70.184.38:443: connect: connection refused"
+microsoft.com,false,false,404,,,,,,,,,https://www.microsoft.com/security.txt file may not exist - HTTP error code: 404
+skype.com,false,false,404,,,,,,,,,https://www.skype.com/security.txt file may not exist - HTTP error code: 404
+newyorker.com,false,false,400,,,,,,,,,https://www.newyorker.com/security.txt file may not exist - HTTP error code: 400
+archive.org,false,false,404,,,,,,,,,https://archive.org/security.txt file may not exist - HTTP error code: 404
+nasa.gov,false,false,404,,,,,,,,,https://www.nasa.gov/security.txt file may not exist - HTTP error code: 404
+creativecommons.org,true,true,200,,https://creativecommons.org/security.txt,https://openbugbounty.org/bugbounty/CcSecRep/,,,,,en,
+outlook.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+cnbc.com,false,false,404,,,,,,,,,https://www.cnbc.com/security.txt file may not exist - HTTP error code: 404
+afternic.com,false,false,403,,,,,,,,,https://www.afternic.com/security.txt file may not exist - HTTP error code: 403
+huawei.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://huawei.com/security.txt"": x509: certificate has expired or is not yet valid: current time 2022-08-08T10:59:44+01:00 is after 2021-06-04T10:19:51Z"
+mediafire.com,false,false,404,,,,,,,,,https://www.mediafire.com/security.txt file may not exist - HTTP error code: 404
+news.com.au,false,false,404,,,,,,,,,https://www.news.com.au/security.txt file may not exist - HTTP error code: 404
+estadao.com.br,false,false,404,,,,,,,,,https://www.estadao.com.br/security.txt file may not exist - HTTP error code: 404
+berkeley.edu,false,false,404,,,,,,,,,https://www.berkeley.edu/security.txt file may not exist - HTTP error code: 404
+pbs.org,false,false,404,,,,,,,,,https://www-tc.pbs.org/security.txt file may not exist - HTTP error code: 404
+change.org,false,false,406,,,,,,,,,https://www.change.org/.well-known/security.txt file may not exist - HTTP error code: 406
+mysql.com,false,false,404,,,,,,,,,https://www.mysql.com/security.txt file may not exist - HTTP error code: 404
+instructables.com,false,false,404,,,,,,,,,https://www.instructables.com/security.txt/ file may not exist - HTTP error code: 404
+latimes.com,false,false,404,,,,,,,,,https://www.latimes.com:443/security.txt file may not exist - HTTP error code: 404
+hatena.ne.jp,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+abc.net.au,false,false,404,,,,,,,,,https://www.abc.net.au/security.txt file may not exist - HTTP error code: 404
+globo.com,false,false,404,,,,,,,,,https://www.globo.com/security.txt file may not exist - HTTP error code: 404
+ca.gov,false,false,404,,,,,,,,,https://www.ca.gov/security.txt file may not exist - HTTP error code: 404
+weibo.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+usatoday.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://eu.usatoday.com/errors/404"": stopped after 10 redirects"
+qq.com,false,false,501,,,,,,,,,https://www.qq.com/security.txt file may not exist - HTTP error code: 501
+brandbucket.com,false,false,404,,,,,,,,,https://www.brandbucket.com/security.txt file may not exist - HTTP error code: 404
+ziddu.com,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+booking.com,false,false,404,,,,,,,,,https://www.booking.com/security.txt file may not exist - HTTP error code: 404
+xbox.com,false,false,404,,,,,,,,,https://www.xbox.com:443/en-US/security.txt file may not exist - HTTP error code: 404
+cpanel.net,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+smh.com.au,false,false,404,,,,,,,,,https://www.smh.com.au/security.txt file may not exist - HTTP error code: 404
+bigcommerce.com,false,false,404,,,,,,,,,https://www.bigcommerce.com:443/security.txt file may not exist - HTTP error code: 404
+walmart.com,true,true,200,,https://walmart.com/.well-known/security.txt,https://corporate.walmart.com/article/responsible-disclosure-policy,,,https://careers.walmart.com,https://corporate.walmart.com/privacy-security,en,
+stores.jp,false,false,404,,,,,,,,,https://stores.jp/security.txt file may not exist - HTTP error code: 404
+naver.com,false,false,404,,,,,,,,,https://www.naver.com/security.txt file may not exist - HTTP error code: 404
+detik.com,false,false,404,,,,,,,,,https://www.detik.com/security.txt file may not exist - HTTP error code: 404
+yahoo.co.jp,false,false,403,,,,,,,,,https://www.yahoo.co.jp:443/security.txt file may not exist - HTTP error code: 403
+samsung.com,false,false,404,,,,,,,,,https://www.samsung.com/security.txt file may not exist - HTTP error code: 404
+ig.com.br,false,false,404,,,,,,,,,https://www.ig.com.br/security.txt file may not exist - HTTP error code: 404
+a8.net,false,false,404,,,,,,,,,https://www.a8.net:443/security.txt file may not exist - HTTP error code: 404
+sciencemag.org,false,false,404,,,,,,,,,https://www.science.org/security.txt file may not exist - HTTP error code: 404
+sina.com.cn,false,false,404,,,,,,,,,https://www.sina.com.cn/security.txt file may not exist - HTTP error code: 404
+play.google.com,false,false,404,,,,,,,,,https://play.google.com/security.txt file may not exist - HTTP error code: 404
+nih.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nih.gov/.well-known/security.txt"": dial tcp 156.40.212.210:443: i/o timeout"
+xinhuanet.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://xinhuanet.com/.well-known/security.txt"": dial tcp 202.108.119.194:443: i/o timeout"
+alicdn.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://alicdn.com/.well-known/security.txt"": dial tcp 140.205.77.240:443: i/o timeout"
+sputniknews.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://sputniknews.com/.well-known/security.txt"": dial tcp 178.248.233.26:443: i/o timeout"
+mit.edu,false,false,0,,,,,,,,,"HTTP response error: Get ""https://mit.edu/.well-known/security.txt"": dial tcp: lookup mit.edu: i/o timeout"
+cbc.ca,false,false,0,,,,,,,,,"HTTP response error: Get ""https://cbc.ca/.well-known/security.txt"": dial tcp: lookup cbc.ca: i/o timeout"
+cornell.edu,false,false,0,,,,,,,,,"HTTP response error: Get ""https://cornell.edu/.well-known/security.txt"": dial tcp: lookup cornell.edu: i/o timeout"
+ietf.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ietf.org/.well-known/security.txt"": dial tcp: lookup ietf.org: i/o timeout"
+clarin.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://clarin.com/.well-known/security.txt"": dial tcp: lookup clarin.com: i/o timeout"
+www.over-blog.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.over-blog.com/.well-known/security.txt"": dial tcp: lookup www.over-blog.com: i/o timeout"
+nypost.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nypost.com/.well-known/security.txt"": dial tcp: lookup nypost.com: i/o timeout"
+imageshack.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://imageshack.com/.well-known/security.txt"": dial tcp: lookup imageshack.com: i/o timeout"
+wiley.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://wiley.com/.well-known/security.txt"": dial tcp: lookup wiley.com: i/o timeout"
+zendesk.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://zendesk.com/.well-known/security.txt"": dial tcp: lookup zendesk.com: i/o timeout"
+thenai.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://thenai.org/.well-known/security.txt"": dial tcp: lookup thenai.org: i/o timeout"
+lefigaro.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://lefigaro.fr/.well-known/security.txt"": dial tcp: lookup lefigaro.fr: i/o timeout"
+cpanel.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://cpanel.com/.well-known/security.txt"": dial tcp: lookup cpanel.com: i/o timeout"
+wikihow.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://wikihow.com/.well-known/security.txt"": dial tcp: lookup wikihow.com: i/o timeout"
+alexa.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://alexa.com/.well-known/security.txt"": dial tcp: lookup alexa.com: i/o timeout"
+photos1.blogger.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://photos1.blogger.com/.well-known/security.txt"": dial tcp: lookup photos1.blogger.com: i/o timeout"
+themeforest.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://themeforest.net/.well-known/security.txt"": dial tcp: lookup themeforest.net: i/o timeout"
+google.co.in,false,false,0,,,,,,,,,"HTTP response error: Get ""https://google.co.in/.well-known/security.txt"": dial tcp: lookup google.co.in: i/o timeout"
+ebay.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ebay.com/.well-known/security.txt"": dial tcp: lookup ebay.com: i/o timeout"
+nginx.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nginx.com/.well-known/security.txt"": dial tcp: lookup nginx.com: i/o timeout"
+harvard.edu,false,false,0,,,,,,,,,"HTTP response error: Get ""https://harvard.edu/.well-known/security.txt"": dial tcp: lookup harvard.edu: i/o timeout"
+bp2.blogger.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://bp2.blogger.com/.well-known/security.txt"": dial tcp: lookup bp2.blogger.com: i/o timeout"
+amazon.in,false,false,0,,,,,,,,,"HTTP response error: Get ""https://amazon.in/.well-known/security.txt"": dial tcp: lookup amazon.in: i/o timeout"
+rambler.ru,false,false,0,,,,,,,,,"HTTP response error: Get ""https://rambler.ru/.well-known/security.txt"": dial tcp: lookup rambler.ru: i/o timeout"
+nbcnews.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nbcnews.com/.well-known/security.txt"": dial tcp: lookup nbcnews.com: i/o timeout"
+picasa.google.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://picasa.google.com/.well-known/security.txt"": dial tcp: lookup picasa.google.com: i/o timeout"
+stanford.edu,false,false,0,,,,,,,,,"HTTP response error: Get ""https://stanford.edu/.well-known/security.txt"": dial tcp: lookup stanford.edu: i/o timeout"
+gooyaabitemplates.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://gooyaabitemplates.com/.well-known/security.txt"": dial tcp: lookup gooyaabitemplates.com: i/o timeout"
+businesswire.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://businesswire.com/.well-known/security.txt"": dial tcp: lookup businesswire.com: i/o timeout"
+noaa.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://noaa.gov/.well-known/security.txt"": dial tcp: lookup noaa.gov: i/o timeout"
+asahi.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://asahi.com/.well-known/security.txt"": dial tcp: lookup asahi.com: i/o timeout"
+ovh.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ovh.net/.well-known/security.txt"": dial tcp: lookup ovh.net: i/o timeout"
+jstor.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://jstor.org/.well-known/security.txt"": dial tcp: lookup jstor.org: i/o timeout"
+orange.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://orange.fr/.well-known/security.txt"": dial tcp: lookup orange.fr: i/o timeout"
+variety.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://variety.com/.well-known/security.txt"": dial tcp: lookup variety.com: i/o timeout"
+people.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://people.com/.well-known/security.txt"": dial tcp: lookup people.com: i/o timeout"
+economist.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://economist.com/.well-known/security.txt"": dial tcp: lookup economist.com: i/o timeout"
+lavanguardia.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://lavanguardia.com/.well-known/security.txt"": dial tcp: lookup lavanguardia.com: i/o timeout"
+m.me,false,false,0,,,,,,,,,"HTTP response error: Get ""https://m.me/.well-known/security.txt"": dial tcp: lookup m.me: i/o timeout"
+zoom.us,false,false,0,,,,,,,,,"HTTP response error: Get ""https://zoom.us/.well-known/security.txt"": dial tcp: lookup zoom.us: i/o timeout"
+excite.co.jp,false,false,0,,,,,,,,,"HTTP response error: Get ""https://excite.co.jp/.well-known/security.txt"": dial tcp: lookup excite.co.jp: i/o timeout"
+greenpeace.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://greenpeace.org/.well-known/security.txt"": dial tcp: lookup greenpeace.org: i/o timeout"
+iubenda.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://iubenda.com/.well-known/security.txt"": dial tcp: lookup iubenda.com: i/o timeout"
+dribbble.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://dribbble.com/.well-known/security.txt"": dial tcp: lookup dribbble.com: i/o timeout"
+nps.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nps.gov/.well-known/security.txt"": dial tcp: lookup nps.gov: i/o timeout"
+com.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://com.com/.well-known/security.txt"": dial tcp: lookup com.com: i/o timeout"
+last.fm,false,false,0,,,,,,,,,"HTTP response error: Get ""https://last.fm/.well-known/security.txt"": dial tcp: lookup last.fm: i/o timeout"
+frontiersin.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://frontiersin.org/.well-known/security.txt"": dial tcp: lookup frontiersin.org: i/o timeout"
+ucoz.ru,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ucoz.ru/.well-known/security.txt"": dial tcp: lookup ucoz.ru: i/o timeout"
+wiktionary.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://wiktionary.org/.well-known/security.txt"": dial tcp: lookup wiktionary.org: i/o timeout"
+wikimedia.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://wikimedia.org/.well-known/security.txt"": dial tcp: lookup wikimedia.org: i/o timeout"
+ndtv.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ndtv.com/.well-known/security.txt"": dial tcp: lookup ndtv.com: i/o timeout"
+mozilla.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://mozilla.com/.well-known/security.txt"": dial tcp: lookup mozilla.com: i/o timeout"
+nhk.or.jp,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nhk.or.jp/.well-known/security.txt"": dial tcp: lookup nhk.or.jp: i/o timeout"
+windowsphone.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://windowsphone.com/.well-known/security.txt"": dial tcp: lookup windowsphone.com: i/o timeout"
+vox.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://vox.com/.well-known/security.txt"": dial tcp: lookup vox.com: i/o timeout"
+sakura.ne.jp,false,false,0,,,,,,,,,"HTTP response error: Get ""https://sakura.ne.jp/.well-known/security.txt"": dial tcp: lookup sakura.ne.jp: i/o timeout"
+rottentomatoes.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://rottentomatoes.com/.well-known/security.txt"": dial tcp: lookup rottentomatoes.com: i/o timeout"
+ibtimes.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ibtimes.com/.well-known/security.txt"": dial tcp: lookup ibtimes.com: i/o timeout"
+behance.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://behance.net/.well-known/security.txt"": dial tcp: lookup behance.net: i/o timeout"
+ox.ac.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ox.ac.uk/.well-known/security.txt"": dial tcp: lookup ox.ac.uk: i/o timeout"
+prnewswire.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://prnewswire.com/.well-known/security.txt"": dial tcp: lookup prnewswire.com: i/o timeout"
+lego.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://lego.com/.well-known/security.txt"": dial tcp: lookup lego.com: i/o timeout"
+itmedia.co.jp,false,false,0,,,,,,,,,"HTTP response error: Get ""https://itmedia.co.jp/.well-known/security.txt"": dial tcp: lookup itmedia.co.jp: i/o timeout"
+ebay.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ebay.co.uk/.well-known/security.txt"": dial tcp: lookup ebay.co.uk: i/o timeout"
+howstuffworks.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://howstuffworks.com/.well-known/security.txt"": dial tcp: lookup howstuffworks.com: i/o timeout"
+blog.google,false,false,0,,,,,,,,,"HTTP response error: Get ""https://blog.google/.well-known/security.txt"": dial tcp: lookup blog.google: i/o timeout"
+utexas.edu,false,false,0,,,,,,,,,"HTTP response error: Get ""https://utexas.edu/.well-known/security.txt"": dial tcp: lookup utexas.edu: i/o timeout"
+yandex.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://yandex.com/.well-known/security.txt"": dial tcp: lookup yandex.com: i/o timeout"
+blackberry.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://blackberry.com/.well-known/security.txt"": dial tcp: lookup blackberry.com: i/o timeout"
+usgs.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://usgs.gov/.well-known/security.txt"": dial tcp: lookup usgs.gov: i/o timeout"
+amazon.ca,false,false,0,,,,,,,,,"HTTP response error: Get ""https://amazon.ca/.well-known/security.txt"": dial tcp: lookup amazon.ca: i/o timeout"
+history.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://history.com/.well-known/security.txt"": dial tcp: lookup history.com: i/o timeout"
+google.co.id,false,false,0,,,,,,,,,"HTTP response error: Get ""https://google.co.id/.well-known/security.txt"": dial tcp: lookup google.co.id: i/o timeout"
+interia.pl,false,false,0,,,,,,,,,"HTTP response error: Get ""https://interia.pl/.well-known/security.txt"": dial tcp: lookup interia.pl: i/o timeout"
+scholastic.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://scholastic.com/.well-known/security.txt"": dial tcp: lookup scholastic.com: i/o timeout"
+box.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://box.com/.well-known/security.txt"": dial tcp: lookup box.com: i/o timeout"
+thedailybeast.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://thedailybeast.com/.well-known/security.txt"": dial tcp: lookup thedailybeast.com: i/o timeout"
+oreilly.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://oreilly.com/.well-known/security.txt"": dial tcp: lookup oreilly.com: i/o timeout"
+disney.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://disney.com/.well-known/security.txt"": dial tcp: lookup disney.com: i/o timeout"
+python.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://python.org/.well-known/security.txt"": dial tcp: lookup python.org: i/o timeout"
+bp3.blogger.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://bp3.blogger.com/.well-known/security.txt"": dial tcp: lookup bp3.blogger.com: i/o timeout"
+cointernet.com.co,false,false,0,,,,,,,,,"HTTP response error: Get ""https://cointernet.com.co/.well-known/security.txt"": dial tcp: lookup cointernet.com.co: i/o timeout"
+fifa.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://fifa.com/.well-known/security.txt"": dial tcp: lookup fifa.com: i/o timeout"
+standard.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://standard.co.uk/.well-known/security.txt"": dial tcp: lookup standard.co.uk: i/o timeout"
+fedoraproject.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://fedoraproject.org/.well-known/security.txt"": dial tcp: lookup fedoraproject.org: i/o timeout"
+goo.ne.jp,false,false,0,,,,,,,,,"HTTP response error: Get ""https://goo.ne.jp/.well-known/security.txt"": dial tcp: lookup goo.ne.jp: i/o timeout"
+intel.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://intel.com/.well-known/security.txt"": dial tcp: lookup intel.com: i/o timeout"
+venturebeat.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://venturebeat.com/.well-known/security.txt"": dial tcp: lookup venturebeat.com: i/o timeout"
+fda.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://fda.gov/.well-known/security.txt"": dial tcp: lookup fda.gov: i/o timeout"
+ehow.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ehow.com/.well-known/security.txt"": dial tcp: lookup ehow.com: i/o timeout"
+telegram.me,false,false,0,,,,,,,,,"HTTP response error: Get ""https://telegram.me/.well-known/security.txt"": dial tcp: lookup telegram.me: i/o timeout"
+theglobeandmail.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://theglobeandmail.com/.well-known/security.txt"": dial tcp: lookup theglobeandmail.com: i/o timeout"
+giphy.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://giphy.com/.well-known/security.txt"": dial tcp: lookup giphy.com: i/o timeout"
+hbr.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://hbr.org/.well-known/security.txt"": dial tcp: lookup hbr.org: i/o timeout"
+gsmarena.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://gsmarena.com/.well-known/security.txt"": dial tcp: lookup gsmarena.com: i/o timeout"
+weforum.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://weforum.org/.well-known/security.txt"": dial tcp: lookup weforum.org: i/o timeout"
+liberation.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://liberation.fr/.well-known/security.txt"": dial tcp: lookup liberation.fr: i/o timeout"
+google.ru,false,false,0,,,,,,,,,"HTTP response error: Get ""https://google.ru/.well-known/security.txt"": dial tcp: lookup google.ru: i/o timeout"
+ucla.edu,false,false,0,,,,,,,,,"HTTP response error: Get ""https://ucla.edu/.well-known/security.txt"": dial tcp: lookup ucla.edu: i/o timeout"
+amazon.de,false,false,0,,,,,,,,,"HTTP response error: Get ""https://amazon.de/.well-known/security.txt"": dial tcp: lookup amazon.de: i/o timeout"
+researchgate.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://researchgate.net/.well-known/security.txt"": dial tcp: lookup researchgate.net: i/o timeout"
+storage.canalblog.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://storage.canalblog.com/.well-known/security.txt"": dial tcp: lookup storage.canalblog.com: i/o timeout"
+biblegateway.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://biblegateway.com/.well-known/security.txt"": dial tcp: lookup biblegateway.com: i/o timeout"
+example.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://example.com/.well-known/security.txt"": dial tcp: lookup example.com: i/o timeout"
+viglink.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://viglink.com/.well-known/security.txt"": dial tcp: lookup viglink.com: i/o timeout"
+kompas.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://kompas.com/.well-known/security.txt"": dial tcp: lookup kompas.com: i/o timeout"
+forbes.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://forbes.com/.well-known/security.txt"": dial tcp: lookup forbes.com: i/o timeout"
+reddit.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://reddit.com/.well-known/security.txt"": dial tcp: lookup reddit.com: i/o timeout"
+wp.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://wp.com/.well-known/security.txt"": dial tcp: lookup wp.com: i/o timeout"
+wikia.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://wikia.com/.well-known/security.txt"": dial tcp: lookup wikia.com: i/o timeout"
+telegraph.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://telegraph.co.uk/.well-known/security.txt"": dial tcp: lookup telegraph.co.uk: i/o timeout"
+aliexpress.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://aliexpress.com/.well-known/security.txt"": dial tcp: lookup aliexpress.com: i/o timeout"
+photos.google.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://photos.google.com/.well-known/security.txt"": dial tcp: lookup photos.google.com: i/o timeout"
+messenger.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://messenger.com/.well-known/security.txt"": dial tcp: lookup messenger.com: i/o timeout"
+nokia.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nokia.com/.well-known/security.txt"": dial tcp: lookup nokia.com: i/o timeout"
+gutenberg.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://gutenberg.org/.well-known/security.txt"": dial tcp: lookup gutenberg.org: i/o timeout"
+java.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://java.com/.well-known/security.txt"": dial tcp: lookup java.com: i/o timeout"
+narod.ru,false,false,0,,,,,,,,,"HTTP response error: Get ""https://narod.ru/.well-known/security.txt"": dial tcp: lookup narod.ru: i/o timeout"
+sec.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://sec.gov/.well-known/security.txt"": dial tcp: lookup sec.gov: i/o timeout"
+amazon.it,false,false,0,,,,,,,,,"HTTP response error: Get ""https://amazon.it/.well-known/security.txt"": dial tcp: lookup amazon.it: i/o timeout"
+nsw.gov.au,false,false,0,,,,,,,,,"HTTP response error: Get ""https://nsw.gov.au/.well-known/security.txt"": dial tcp: lookup nsw.gov.au: i/o timeout"
+stackoverflow.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://stackoverflow.com/.well-known/security.txt"": dial tcp: lookup stackoverflow.com: i/o timeout"
+pinterest.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://pinterest.co.uk/.well-known/security.txt"": dial tcp: lookup pinterest.co.uk: i/o timeout"
+web.fc2.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://web.fc2.com/.well-known/security.txt"": dial tcp: lookup web.fc2.com: i/o timeout"
+adweek.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://adweek.com/.well-known/security.txt"": dial tcp: lookup adweek.com: i/o timeout"
+mail.ru,false,false,0,,,,,,,,,"HTTP response error: Get ""https://mail.ru/.well-known/security.txt"": dial tcp: lookup mail.ru: i/o timeout"
+marketingplatform.google.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://marketingplatform.google.com/.well-known/security.txt"": dial tcp: lookup marketingplatform.google.com: i/o timeout"
+pinterest.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://pinterest.com/.well-known/security.txt"": dial tcp: lookup pinterest.com: i/o timeout"
+un.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://un.org/.well-known/security.txt"": dial tcp: lookup un.org: i/o timeout"
+imageshack.us,false,false,0,,,,,,,,,"HTTP response error: Get ""https://imageshack.us/.well-known/security.txt"": dial tcp: lookup imageshack.us: i/o timeout"
+google.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://google.co.uk/.well-known/security.txt"": dial tcp: lookup google.co.uk: i/o timeout"
+list-manage.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://list-manage.com/.well-known/security.txt"": dial tcp: lookup list-manage.com: i/o timeout"
+thesun.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://thesun.co.uk/.well-known/security.txt"": dial tcp: lookup thesun.co.uk: i/o timeout"
+namecheap.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://namecheap.com/.well-known/security.txt"": dial tcp: lookup namecheap.com: i/o timeout"
+msn.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://msn.com/.well-known/security.txt"": dial tcp: lookup msn.com: i/o timeout"
+foxnews.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://foxnews.com/.well-known/security.txt"": dial tcp: lookup foxnews.com: i/o timeout"
+amazon.es,false,false,0,,,,,,,,,"HTTP response error: Get ""https://amazon.es/.well-known/security.txt"": dial tcp: lookup amazon.es: i/o timeout"
+plus.google.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+hp.com,false,false,404,,,,,,,,,http://www.hp.com/security.txt file may not exist - HTTP error code: 404
+biglobe.ne.jp,false,false,404,,,,,,,,,https://www.biglobe.ne.jp/security.txt file may not exist - HTTP error code: 404
+usda.gov,false,false,404,,,,,,,,,https://www.usda.gov/security.txt file may not exist - HTTP error code: 404
+dw.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.dw.com/.well-known/security.txt"": dial tcp: lookup www.dw.com: i/o timeout"
+it.wikipedia.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://it.wikipedia.org/security.txt"": dial tcp: lookup it.wikipedia.org: i/o timeout"
+pinterest.de,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.pinterest.de/.well-known/security.txt"": dial tcp: lookup www.pinterest.de: i/o timeout"
+hubspot.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.hubspot.com/.well-known/security.txt"": dial tcp: lookup www.hubspot.com: i/o timeout"
+linktr.ee,false,false,0,,,,,,,,,"HTTP response error: Get ""https://linktr.ee/security.txt"": dial tcp: lookup linktr.ee: i/o timeout"
+francetvinfo.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://francetvinfo.fr/security.txt"": dial tcp: lookup francetvinfo.fr: i/o timeout"
+php.net,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.php.net/.well-known/security.txt"": dial tcp: lookup www.php.net: i/o timeout"
+apache.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://apache.org/security.txt"": dial tcp: lookup apache.org: i/o timeout"
+rtve.es,false,false,0,,,,,,,,,"HTTP response error: Get ""https://rtve.es/security.txt"": dial tcp: lookup rtve.es: i/o timeout"
+springer.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.springer.com/.well-known/security.txt"": dial tcp: lookup www.springer.com: i/o timeout"
+shopify.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.shopify.com/.well-known/security.txt"": dial tcp: lookup www.shopify.com: i/o timeout"
+ovh.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.ovh.com/.well-known/security.txt"": dial tcp: lookup www.ovh.com: i/o timeout"
+deezer.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.deezer.com/.well-known/security.txt"": dial tcp: lookup www.deezer.com: i/o timeout"
+code.google.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://code.google.com/security.txt"": dial tcp: lookup code.google.com: i/o timeout"
+abcnews.go.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://abcnews.go.com/security.txt"": dial tcp: lookup abcnews.go.com: i/o timeout"
+hollywoodreporter.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.hollywoodreporter.com/.well-known/security.txt"": dial tcp: lookup www.hollywoodreporter.com: i/o timeout"
+unesco.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://unesco.org/security.txt"": dial tcp: lookup unesco.org: i/o timeout"
+amazon.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://amazon.fr/security.txt"": dial tcp: lookup amazon.fr: i/o timeout"
+dailymail.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.dailymail.co.uk/security.txt"": dial tcp: lookup www.dailymail.co.uk: i/o timeout"
+www.canalblog.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.canalblog.com/security.txt"": dial tcp: lookup www.canalblog.com: i/o timeout"
+youronlinechoices.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.youronlinechoices.com/.well-known/security.txt"": dial tcp: lookup www.youronlinechoices.com: i/o timeout"
+cnil.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.cnil.fr/.well-known/security.txt"": dial tcp: lookup www.cnil.fr: i/o timeout"
+www.wikipedia.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://en.wikipedia.org/.well-known/security.txt"": dial tcp: lookup en.wikipedia.org: i/o timeout"
+huffpost.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.huffpost.com/.well-known/security.txt"": dial tcp: lookup www.huffpost.com: i/o timeout"
+shutterstock.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.shutterstock.com:443/.well-known/security.txt"": dial tcp: lookup www.shutterstock.com: i/o timeout"
+metro.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://metro.co.uk/security.txt"": dial tcp: lookup metro.co.uk: i/o timeout"
+npr.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.npr.org/.well-known/security.txt"": dial tcp: lookup www.npr.org: i/o timeout"
+cambridge.org,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.cambridge.org:443/.well-known/security.txt"": dial tcp: lookup www.cambridge.org: i/o timeout"
+sciencedaily.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.sciencedaily.com/.well-known/security.txt"": dial tcp: lookup www.sciencedaily.com: i/o timeout"
+en.wikipedia.org,false,false,404,,,,,,,,,https://en.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+buzzfeed.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.buzzfeed.com/.well-known/security.txt"": dial tcp: lookup www.buzzfeed.com: i/o timeout"
+engadget.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.engadget.com/.well-known/security.txt"": dial tcp: lookup www.engadget.com: i/o timeout"
+elmundo.es,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.elmundo.es/.well-known/security.txt"": dial tcp: lookup www.elmundo.es: i/o timeout"
+lexpress.fr,false,false,0,,,,,,,,,"HTTP response error: Get ""https://lexpress.fr/security.txt"": dial tcp: lookup lexpress.fr: i/o timeout"
+ftc.gov,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.ftc.gov/.well-known/security.txt"": dial tcp: lookup www.ftc.gov: i/o timeout"
+m.wikipedia.org,false,false,404,,,,,,,,,https://en.wikipedia.org/security.txt file may not exist - HTTP error code: 404
+chicagotribune.com,false,false,404,,,,,,,,,https://www.chicagotribune.com/security.txt file may not exist - HTTP error code: 404
+huffingtonpost.com,false,false,404,,,,,,,,,https://www.huffpost.com/security.txt file may not exist - HTTP error code: 404
+plesk.com,false,false,404,,,,,,,,,https://www.plesk.com/security.txt file may not exist - HTTP error code: 404
+uol.com.br,false,false,404,,,,,,,,,https://www.uol.com.br/security.txt file may not exist - HTTP error code: 404
+nifty.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+lg.com,false,false,404,,,,,,,,,https://www.lg.com:443/security.txt file may not exist - HTTP error code: 404
+terra.com.br,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.terra.com.br/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+usnews.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://usnews.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+rakuten.co.jp,false,false,404,,,,,,,,,https://www.rakuten.co.jp/security.txt file may not exist - HTTP error code: 404
+washingtonpost.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.washingtonpost.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+redbull.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.redbull.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"

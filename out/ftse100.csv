@@ -1,0 +1,101 @@
+domain,is_file_found,is_file_valid,http_status,acknowledgments,canonical,contact,encryption,expires,hiring,policy,preferred_languages,errors
+www.antofagasta.co.uk,false,false,500,,,,,,,,,https://www.antofagasta.co.uk/.well-known/security.txt file may not exist - HTTP error code: 500
+www.diageo.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+www.persimmonhomes.com,false,false,404,,,,,,,,,https://www.persimmonhomes.com/security.txt file may not exist - HTTP error code: 404
+www.tuigroup.com,false,false,500,,,,,,,,,https://www.tuigroup.com/.well-known/security.txt file may not exist - HTTP error code: 500
+www.dssmith.com,true,true,200,,,it.security@dssmith.com,,,,,,
+www.bat.com,false,false,404,,,,,,,,,https://www.bat.com/security.txt file may not exist - HTTP error code: 404
+www.schroders.com,true,true,200,,https://schroders.com/.well-known/security.txt,,,,https://schroders.referrals.selectminds.com/careers/,,en,
+www.lloydsbankinggroup.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+www.halma.com,false,false,403,,,,,,,,,https://www.halma.com/security.txt file may not exist - HTTP error code: 403
+www.flutter.com,false,false,404,,,,,,,,,https://www.flutter.com/security.txt file may not exist - HTTP error code: 404
+www.natwestgroup.com,false,false,404,,,,,,,,,https://www.natwestgroup.com/security.txt file may not exist - HTTP error code: 404
+www.bhp.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+www.bt.com,false,false,404,,,,,,,,,https://www.bt.com/security.txt file may not exist - HTTP error code: 404
+www.centrica.com,true,false,200,,,,,,,,,
+www.glencore.com,true,true,200,,,security@glencore.com,,,,,en,
+www.wpp.com,false,false,403,,,,,,,,,https://www.wpp.com/security.txt file may not exist - HTTP error code: 403
+www.autotrader.co.uk,false,false,404,,,,,,,,,https://www.autotrader.co.uk/security.txt file may not exist - HTTP error code: 404
+www.evraz.com,false,false,200,,,,,,,,,Content-type () is not valid
+www.bp.com,false,false,404,,,,,,,,,https://www.bp.com/security.txt file may not exist - HTTP error code: 404
+www.sage.com,true,true,200,,,soc@sage.com,,,,,,
+www.iairgroup.com,false,false,403,,,,,,,,,https://www.iairgroup.com/security.txt file may not exist - HTTP error code: 403
+www.reckitt.com,false,false,404,,,,,,,,,https://www.reckitt.com/security.txt file may not exist - HTTP error code: 404
+www.nextplc.co.uk,false,false,403,,,,,,,,,https://www.nextplc.co.uk/security.txt file may not exist - HTTP error code: 403
+www.berkeleygroup.co.uk,false,false,404,,,,,,,,,https://www.berkeleygroup.co.uk/security.txt file may not exist - HTTP error code: 404
+www.coca-colahellenic.com,false,false,403,,,,,,,,,https://www.coca-colahellenic.com/security.txt file may not exist - HTTP error code: 403
+www.britishland.com,false,false,403,,,,,,,,,https://www.britishland.com/security.txt file may not exist - HTTP error code: 403
+www.sse.com,false,false,404,,,,,,,,,https://www.sse.com/security.txt file may not exist - HTTP error code: 404
+www.informa.com,false,false,404,,,,,,,,,https://www.informa.com/security.txt file may not exist - HTTP error code: 404
+www.smurfitkappa.com,false,false,404,,,,,,,,,https://www.smurfitkappa.com/security.txt file may not exist - HTTP error code: 404
+www.itvplc.com,false,false,403,,,,,,,,,https://www.itvplc.com/security.txt file may not exist - HTTP error code: 403
+www.rsagroup.com,false,false,404,,,,,,,,,https://www.rsagroup.com/security.txt file may not exist - HTTP error code: 404
+www.about.sainsburys.co.uk,false,false,403,,,,,,,,,https://www.about.sainsburys.co.uk/security.txt file may not exist - HTTP error code: 403
+www.compass-group.com,false,false,404,,,,,,,,,https://www.compass-group.com/security.txt file may not exist - HTTP error code: 404
+www.abrdn.com,false,false,404,,,,,,,,,https://www.abrdn.com/security.txt file may not exist - HTTP error code: 404
+www.rentokil-initial.com,false,false,403,,,,,,,,,https://www.rentokil-initial.com/security.txt file may not exist - HTTP error code: 403
+www.lseg.com,false,false,404,,,,,,,,,https://www.lseg.com/security.txt file may not exist - HTTP error code: 404
+www.unitedutilities.com,false,false,404,,,,,,,,,https://www.unitedutilities.com/security.txt file may not exist - HTTP error code: 404
+www.gsk.com,false,false,404,,,,,,,,,https://www.gsk.com/security.txt file may not exist - HTTP error code: 404
+www.segro.com,false,false,404,,,,,,,,,https://www.segro.com/security.txt file may not exist - HTTP error code: 404
+www.abf.co.uk,false,false,404,,,,,,,,,https://www.abf.co.uk/security.txt file may not exist - HTTP error code: 404
+www.dcc.ie,false,false,403,,,,,,,,,https://www.dcc.ie/security.txt file may not exist - HTTP error code: 403
+www.ihgplc.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+www.crh.com,false,false,404,,,,,,,,,https://www.crh.com/security.txt file may not exist - HTTP error code: 404
+www.shell.com,false,false,404,,,,,,,,,https://www.shell.com/security.txt file may not exist - HTTP error code: 404
+www.shell.com,false,false,404,,,,,,,,,https://www.shell.com/security.txt file may not exist - HTTP error code: 404
+www.bunzl.com,false,false,404,,,,,,,,,https://www.bunzl.com/security.txt file may not exist - HTTP error code: 404
+www.severntrent.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.severntrent.com/.well-known/security.txt"": x509: certificate signed by unknown authority"
+www.mondigroup.com,false,false,404,,,,,,,,,https://www.mondigroup.com/security.txt file may not exist - HTTP error code: 404
+www.angloamerican.com,false,false,403,,,,,,,,,https://www.angloamerican.com/security.txt file may not exist - HTTP error code: 403
+www.kingfisher.com,false,false,404,,,,,,,,,https://www.kingfisher.com/security.txt file may not exist - HTTP error code: 404
+www.baesystems.com,false,false,404,,,,,,,,,https://www.baesystems.com/security.txt file may not exist - HTTP error code: 404
+www.landsec.com,false,false,404,,,,,,,,,https://www.landsec.com/security.txt file may not exist - HTTP error code: 404
+www.jdplc.com,false,false,403,,,,,,,,,https://www.jdplc.com/security.txt file may not exist - HTTP error code: 403
+www.burberryplc.com,false,false,404,,,,,,,,,https://www.burberryplc.com/security.txt file may not exist - HTTP error code: 404
+www.melroseplc.net,false,false,404,,,,,,,,,https://www.melroseplc.net/security.txt file may not exist - HTTP error code: 404
+www.mandgprudential.com,false,false,403,,,,,,,,,https://www.mandgprudential.com/security.txt file may not exist - HTTP error code: 403
+www.astrazeneca.com,false,false,403,,,,,,,,,https://www.astrazeneca.com/security.txt file may not exist - HTTP error code: 403
+plc.rightmove.co.uk,false,false,403,,,,,,,,,https://plc.rightmove.co.uk/security.txt file may not exist - HTTP error code: 403
+www.thephoenixgroup.com,false,false,403,,,,,,,,,https://www.thephoenixgroup.com/security.txt file may not exist - HTTP error code: 403
+aviva.co.uk,false,false,404,,,,,,,,,https://www.aviva.co.uk:443/security.txt file may not exist - HTTP error code: 404
+www.prudentialplc.com,true,true,200,,,gwis[dot]soc[at]prudentialplc[dot]com,,,,,,
+www.admiralgroup.co.uk,false,false,404,,,,,,,,,https://admiralgroup.co.uk/security.txt file may not exist - HTTP error code: 404
+www.hiscoxgroup.com,false,false,404,,,,,,,,,https://www.hiscoxgroup.com/security.txt file may not exist - HTTP error code: 404
+plc.pearson.com,false,false,403,,,,,,,,,https://plc.pearson.com/security.txt file may not exist - HTTP error code: 403
+www.spiraxsarcoengineering.com,false,false,403,,,,,,,,,https://www.spiraxsarcoengineering.com/security.txt file may not exist - HTTP error code: 403
+www.sjp.co.uk,false,false,403,,,,,,,,,https://www.sjp.co.uk/security.txt file may not exist - HTTP error code: 403
+www.intertek.com,false,false,200,,,,,,,,,Content-type (text/html; charset=utf-8) is not valid
+www.experianplc.com,false,false,404,,,,,,,,,https://www.experianplc.com/security.txt file may not exist - HTTP error code: 404
+www.aveva.com,false,false,404,,,,,,,,,https://www.aveva.com/security.txt/ file may not exist - HTTP error code: 404
+www.nationalgrid.com,false,false,404,,,,,,,,,https://www.nationalgrid.com/security.txt file may not exist - HTTP error code: 404
+www.rolls-royce.com,false,false,403,,,,,,,,,https://www.rolls-royce.com/security.txt file may not exist - HTTP error code: 403
+www.riotinto.com,false,false,404,,,,,,,,,https://www.riotinto.com/security.txt file may not exist - HTTP error code: 404
+www.ashtead-group.com,false,false,404,,,,,,,,,https://www.ashtead-group.com/security.txt file may not exist - HTTP error code: 404
+www.barrattdevelopments.co.uk,false,false,403,,,,,,,,,https://www.barrattdevelopments.co.uk/security.txt file may not exist - HTTP error code: 403
+www.fergusonplc.com,false,false,404,,,,,,,,,https://www.fergusonplc.com/security.txt file may not exist - HTTP error code: 404
+www.unilever.com,false,false,404,,,,,,,,,https://www.unilever.com/security.txt file may not exist - HTTP error code: 404
+www.relx.com,false,false,403,,,,,,,,,https://www.relx.com/security.txt file may not exist - HTTP error code: 403
+www.imperialbrandsplc.com,false,false,404,,,,,,,,,https://www.imperialbrandsplc.com/security.txt file may not exist - HTTP error code: 404
+www.barclays.com,false,false,404,,,,,,,,,https://home.barclays/security.txt file may not exist - HTTP error code: 404
+www.hsbc.com,false,false,404,,,,,,,,,https://www.hsbc.com/security.txt file may not exist - HTTP error code: 404
+www.smiths.com,false,false,404,,,,,,,,,https://www.smiths.com/security.txt file may not exist - HTTP error code: 404
+www.smith-nephew.com,false,false,404,,,,,,,,,https://www.smith-nephew.com/security.txt file may not exist - HTTP error code: 404
+www.matthey.com,false,false,200,,,,,,,,,Content-type (text/html;charset=UTF-8) is not valid
+morrisons.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://groceries.morrisons.com/?queueittoken=e_morrisonsshop~q_00000000-0000-0000-0000-000000000000~ts_1659954077~ce_true~rt_disabled~h_bc17e3591791857e0045bcb311c750711b45ad0831b818d7ec4e490c94e124cc"": stopped after 10 redirects"
+www.hikma.com,false,false,404,,,,,,,,,https://www.hikma.com/security.txt file may not exist - HTTP error code: 404
+www.vodafone.com,false,false,404,,,,,,,,,https://www.vodafone.com/security.txt file may not exist - HTTP error code: 404
+www.taylorwimpey.co.uk,false,false,404,,,,,,,,,https://www.taylorwimpey.co.uk/security.txt file may not exist - HTTP error code: 404
+www.legalandgeneralgroup.com,false,false,404,,,,,,,,,https://www.legalandgeneralgroup.com/en/services/404-page-not-found file may not exist - HTTP error code: 404
+www.sc.com,false,false,404,,,,,,,,,https://www.sc.com/en/404/ file may not exist - HTTP error code: 404
+www.hl.co.uk,false,false,404,,,,,,,,,https://www.hl.co.uk/security.txt file may not exist - HTTP error code: 404
+www.whitbread.co.uk,false,false,404,,,,,,,,,https://www.whitbread.co.uk/security.txt file may not exist - HTTP error code: 404
+www.croda.com,false,false,404,,,,,,,,,https://www.croda.com/security.txt file may not exist - HTTP error code: 404
+www.meggitt.com,false,false,404,,,,,,,,,https://www.meggitt.com/security.txt file may not exist - HTTP error code: 404
+www.fresnilloplc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.fresnilloplc.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+www.carnivalplc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.carnivalplc.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+www.bailliegifford.co.uk,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.bailliegifford.co.uk/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+www.nmchealth.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.nmchealth.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+www.ocadogroup.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.ocadogroup.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+www.tescoplc.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.tescoplc.com/.well-known/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+www.polymetalinternational.com,false,false,0,,,,,,,,,"HTTP response error: Get ""https://www.polymetalinternational.com/security.txt"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"

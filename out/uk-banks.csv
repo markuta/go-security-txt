@@ -1,0 +1,21 @@
+domain,is_file_found,is_file_valid,http_status,acknowledgments,canonical,contact,encryption,expires,hiring,policy,preferred_languages,errors
+www.lloydsbank.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+www.revolut.com,true,true,200,,,"https://www.revolut.com/responsible-disclosure-program, security@revolut.com",,,,,,
+www.nationwide.co.uk,true,true,200,,,mailto:securitydisclosure@nationwide.co.uk,,2023-01-25T17:00:00.000Z,,,en,
+www.halifax.co.uk,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+www.rbs.co.uk,false,false,404,,,,,,,,,https://www.rbs.co.uk/security.txt file may not exist - HTTP error code: 404
+www.natwest.com,false,false,404,,,,,,,,,https://www.natwest.com/security.txt file may not exist - HTTP error code: 404
+monzo.com,true,true,200,,,"https://hackerone.com/monzo, mailto:security@monzo.com",https://monzo.com/.well-known/monzo-publickey.asc,,https://monzo.com/careers/,,,
+www.bankofscotland.co.uk,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+www.hsbc.co.uk,false,false,404,,,,,,,,,https://www.hsbc.co.uk/security.txt file may not exist - HTTP error code: 404
+www.co-operativebank.co.uk,true,true,200,,,https://www.co-operativebank.co.uk/help-and-support/fraud-and-security/responsible-security-disclosure/,,,,https://www.co-operativebank.co.uk/help-and-support/fraud-and-security/responsible-security-disclosure/,,
+www.santander.co.uk,false,false,404,,,,,,,,,https://www.santander.co.uk/security.txt file may not exist - HTTP error code: 404
+www.cumberland.co.uk,false,false,401,,,,,,,,,https://www.cumberland.co.uk/security.txt file may not exist - HTTP error code: 401
+starlingbank.com,true,true,200,,https://www.starlingbank.com/.well-known/security.txt,disclosure@starlingbank.com,https://www.starlingbank.com/security/gpg-key.txt,,,https://www.starlingbank.com/security/disclosure/,en,
+uk.virginmoney.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
+www.barclays.co.uk,false,false,200,,,,,,,,,Content-type (text/html; charset=UTF-8) is not valid
+www.triodos.co.uk,false,false,404,,,,,,,,,https://www.triodos.co.uk/security.txt file may not exist - HTTP error code: 404
+www.smile.co.uk,false,false,404,,,,,,,,,https://www.smile.co.uk/security.txt file may not exist - HTTP error code: 404
+www.tsb.co.uk,false,false,404,,,,,,,,,https://www.tsb.co.uk/security.txt file may not exist - HTTP error code: 404
+www.metrobankonline.co.uk,false,false,404,,,,,,,,,https://www.metrobankonline.co.uk/security.txt file may not exist - HTTP error code: 404
+www.firstdirect.com,false,false,404,,,,,,,,,https://www2.firstdirect.com/security.txt file may not exist - HTTP error code: 404
