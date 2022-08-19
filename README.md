@@ -2,7 +2,7 @@
 A proof of concept program that pulls and parses security.txt files at mass.
 
 ## Description
-A Go command-line tool to checks the existence of a `security.txt` file.
+A Go command-line tool to checks the existence of a `security.txt` file. Read our related blog post on: https://redmaple.tech/blogs/2022/survey-of-security-txt/
 
 ## Building
 To build the tool from source you need a Go environment. I recommend using the latest Golang version available.
