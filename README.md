@@ -2,7 +2,7 @@
 A proof of concept program that pulls and parses security.txt files at mass.
 
 ## Description
-A Go command-line tool to checks the existence of a `security.txt` file. Read our related blog post on: https://redmaple.tech/blogs/2022/survey-of-security-txt/
+A Go command-line tool to checks the existence of a `security.txt` file. Read our related blog post on: https://redmaple.tech/blogs/2022/survey-of-security-txt/ (not yet published).
 
 ## Building
 To build the tool from source you need a Go environment. I recommend using the latest Golang version available.
@@ -78,3 +78,12 @@ www.lloydsbank.com,false,false,200,,,,,,,,,Content-type (text/html) is not valid
 www.nationwide.co.uk,true,true,200,,,mailto:securitydisclosure@nationwide.co.uk,,2023-01-25T17:00:00.000Z,,,en,
 www.natwest.com,false,false,404,,,,,,,,,https://www.natwest.com/security.txt file may not exist - HTTP error code: 404
 ```
+
+## Results
+All the survey results can be found within the `out` folder. These include:
+- Tranco 1m
+- Moz 500
+- FTSE 100
+- S&P 500
+- UK financial industry
+- UK Banks
