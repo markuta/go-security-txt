@@ -2,7 +2,7 @@
 A proof of concept program that pulls and parses security.txt files at mass.
 
 ## Description
-A Go command-line tool to checks the existence of a `security.txt` file. Read our related blog post on: https://redmaple.tech/blogs/2022/survey-of-security-txt/ (not yet published).
+A Go command-line tool that checks the existence of a `security.txt` file. Read our related blog post on: https://redmaple.tech/blogs/2022/survey-of-security-txt/ (not yet published).
 
 ## Building
 To build the tool from source you need a Go environment. I recommend using the latest Golang version available.
@@ -16,7 +16,7 @@ GOOS=linux GOARCH=amd64 go build -o sectxt-linux-x64
 ```
 
 ## Usage
-The program can either take a domain name `-d`, or a text based input file `-i`, where each domain name on a new line. You can also use `-json` option to display JSON formatted output, which is only supported with `-d` option.
+The program can either take a domain name `-d`, or a text based input file `-i`, where each domain name is on a new line. You can also use `-json` option to display JSON formatted output, which is only supported with `-d` option.
 
 ```bash
 naz@ThinkPad:~/dev/go/go-security-txt$ ./sectxt
