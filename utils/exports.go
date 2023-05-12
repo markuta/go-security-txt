@@ -5,7 +5,8 @@ import (
 	"log"
 	"os"
 	"strconv"
-
+	"time"
+	
 	"github.com/markuta/go-security-txt/parser"
 )
 
@@ -22,10 +23,12 @@ func GetCSVWriter(filename string) (*csv.Writer, *os.File) {
 
 func CSVWriterRoutine(domainChannel chan *parser.Domain, done chan bool, numRecords int, csvWriter *csv.Writer) {
 	rowsWritten := 0
-
+	currentTime := time.Now()
+	
 	// Write data from channel to CSV
 	for data := range domainChannel {
 		err := csvWriter.Write([]string{
+			currentTime.Format("2006-01-02"),
 			data.Name,
 			strconv.FormatBool(data.IsFileFound),
 			strconv.FormatBool(data.IsFileValid),
