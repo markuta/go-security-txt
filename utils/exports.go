@@ -28,7 +28,7 @@ func CSVWriterRoutine(domainChannel chan *parser.Domain, done chan bool, numReco
 	// Write data from channel to CSV
 	for data := range domainChannel {
 		err := csvWriter.Write([]string{
-			currentTime.Format("2006-01-02"),
+			currentTime.Format("2006-01-02 15:04:05"),
 			data.Name,
 			strconv.FormatBool(data.IsFileFound),
 			strconv.FormatBool(data.IsFileValid),
