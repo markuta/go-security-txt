@@ -38,6 +38,7 @@ func CSVWriterRoutine(domainChannel chan *parser.Domain, done chan bool, numReco
 			data.Result.Hiring,
 			data.Result.Policy,
 			parser.SliceAsCSV(data.Result.PreferredLanguages),
+			data.Result.CSAF,
 			data.Error, // show general errors,
 		})
 		if err != nil {
