@@ -11,6 +11,7 @@ type SecTXTFile struct {
 	Hiring             string   // e.g. https://example.com/careers
 	Policy             string   // e.g. https://example.com/disclosure.html
 	PreferredLanguages []string // e.g. en, es, fr
+	CSAF		   string
 }
 
 // Domain struct shows whether a domain
