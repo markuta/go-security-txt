@@ -49,7 +49,8 @@ naz@Naz-ThinkPad:~/dev/go/go-security-txt$ ./sectxt -json -d redmaple.tech | jq
     "Policy": "https://redmaple.tech/disclosure/",
     "PreferredLanguages": [
       "en"
-    ]
+    ],
+    "CSAF": null
   },
   "Complete": true,
   "StatusCode": "200",

@@ -23,6 +23,7 @@ func (d Domain) PrettyPrint() {
 	fmt.Fprintf(w, "Hiring\t%s\n", d.Result.Hiring)
 	fmt.Fprintf(w, "Policy\t%s\n", d.Result.Policy)
 	fmt.Fprintf(w, "PreferredLanguages\t%s\n", SliceAsCSV(d.Result.PreferredLanguages))
+	fmt.Fprintf(w, "CSAF\t%s\n", SliceAsCSV(d.Result.CSAF))
 
 	w.Flush()
 }
