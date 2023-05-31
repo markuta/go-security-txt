@@ -14,16 +14,18 @@ import (
 )
 
 const (
-	numWorkers = 500
+	defaultWorkers = 50
 )
 
 var domain, inputFile, outputFilename string
+var numWorkers int
 var outputJSON bool
 
 func init() {
 	flag.StringVar(&domain, "d", "", "specify a single domain name e.g. google.com")
 	flag.StringVar(&inputFile, "i", "", "input filename of a list of domain names e.g. domains.txt")
 	flag.StringVar(&outputFilename, "o", "", "output filename of exported CSV file")
+	flag.IntVar(&numWorkers, "w", defaultWorkers, "number of Goroutine workers")
 	flag.BoolVar(&outputJSON, "json", false, "output result to JSON format (only supports -d mode)")
 	//flag.BoolVar(&outputCSV, "csv", false, "(optional) output results to CSV format")
 	//flag.BoolVar(&verboseErr, "v", false, "verbose logging")
