@@ -87,7 +87,7 @@ func ParseSecTXT(r []byte) *SecTXTFile {
 		"Hiring":             "Hiring: ",
 		"Policy":             "Policy: ",
 		"PreferredLanguages": "Preferred-Languages: ",
-		"CSAF": "CSAF: ",
+		"CSAF":               "CSAF: ",
 	}
 
 	secTXT := SecTXTFile{}
@@ -130,7 +130,8 @@ func ParseSecTXT(r []byte) *SecTXTFile {
 			secTXT.PreferredLanguages = langStr
 		case strings.HasPrefix(line, prefix["CSAF"]):
 			valueStr := strings.Split(line, prefix["CSAF"])
-			secTXT.CSAF = valueStr[1]
+			// CSAF may be on multiple lines
+			secTXT.CSAF = append(secTXT.CSAF, valueStr[1])
 		}
 	}
 
