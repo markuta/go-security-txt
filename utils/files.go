@@ -28,7 +28,7 @@ func ReadFile(f string) ([]string, error) {
 	fileHandle, err := os.Open(f)
 
 	if err != nil {
-		return nil, fmt.Errorf("Cannot open file: %s", err.Error())
+		return nil, fmt.Errorf("cannot open file: %s", err.Error())
 	}
 
 	// Close handle

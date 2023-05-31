@@ -20,7 +20,7 @@ type SecTXTFile struct {
 type Domain struct {
 	Name        string // e.g. example.com
 	IsFileFound bool
-	IsFileValid bool
+	IsFieldFound bool
 	Result      SecTXTFile
 	Complete    bool
 	StatusCode  string

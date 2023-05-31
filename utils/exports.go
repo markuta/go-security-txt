@@ -31,7 +31,7 @@ func CSVWriterRoutine(domainChannel chan *parser.Domain, done chan bool, numReco
 			currentTime.Format("2006-01-02 15:04:05"),
 			data.Name,
 			strconv.FormatBool(data.IsFileFound),
-			strconv.FormatBool(data.IsFileValid),
+			strconv.FormatBool(data.IsFieldFound),
 			data.StatusCode,
 			data.Result.Acknowledgments,
 			data.Result.Canonical,

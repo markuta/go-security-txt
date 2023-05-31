@@ -66,7 +66,7 @@ func runWithInputFile() {
 	csvWriter, csvFile := utils.GetCSVWriter(outputFilename)
 
 	// Write headers
-	csvWriter.Write([]string{"timestamp","domain", "is_file_found", "is_file_valid", "http_status", "acknowledgments", "canonical", "contact", "encryption", "expires", "hiring", "policy", "preferred_languages", "csaf", "errors"})
+	csvWriter.Write([]string{"timestamp","domain", "is_file_found", "is_field_found", "http_status", "acknowledgments", "canonical", "contact", "encryption", "expires", "hiring", "policy", "preferred_languages", "csaf", "errors"})
 	numDomains := len(domains)
 
 	// Catch CTRL-C so we can exit cleanly

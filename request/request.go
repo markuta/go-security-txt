@@ -107,7 +107,7 @@ func Process(d string) (*parser.Domain, error) {
 	domain.Result = *secTxtPtr
 
 	if !checkAllFieldsEmpty(domain) {
-		domain.IsFileValid = true
+		domain.IsFieldFound = true
 	}
 
 	return &domain, nil
